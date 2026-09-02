@@ -65,7 +65,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Research administration platform built to track institutional progress. Designed and developed form and reporting modules covering capacity building, awards, teaching records, and students guided.
 
-### [ICAR FVMS — File and Vehicle Movement System](https://fvms.icar.gov.in)
+### [ICAR FVMS — Foreign Visit Management System](https://fvms.icar.gov.in)
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Workflow system digitizing file movement "through proper channel". Delivered complex routing logic and reporting features that replaced manual physical file tracking with a fully auditable digital trail.
 
