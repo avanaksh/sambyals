@@ -3,7 +3,20 @@
 
 Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
 * **LinkedIn:** [linkedin.com/in/avanaksh-sambyal](https://linkedin.com)
+*
+  
+## Technical Skills
 
+* **Languages & Frameworks:** C#, ASP.NET, .NET Framework, ADO.NET, LINQ
+* **Web Services & APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption
+* **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX
+* **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization
+* **Security & Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
+* **Reporting & Documents:** Dynamic report generation, PDF generation, MS Word / Excel export
+* **Application Capabilities:** Multi-stage approval workflows, File movement and routing systems, Dashboards, Alerts, Automated email notifications, Master-data management
+* **Tools & Practices:** Visual Studio, IIS deployment, Git, Requirement analysis, Production support, Change management
+* **Domain Expertise:** e-Governance, Government and research MIS, Academic management systems, HR appraisal systems, Land and asset records management
+* 
 ## Professional Summary
 Full Stack .NET developer with **9+ years of experience** designing, building, and maintaining large-scale enterprise web applications on the Microsoft stack. Specializes in **ASP.NET C# and Web API development** for multi-role, workflow-driven systems used by thousands of users across 50+ institutes nationwide. Strong track record in third-party API integration (JSON and XML), LDAP-based single sign-on, multi-stage approval workflows, dynamic reporting, and automated PDF generation. Experienced across the full delivery cycle — requirement gathering, development, deployment, and post-production enhancement — on live, business-critical systems in continuous production use.
 
@@ -33,3 +46,38 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ## Technical Skills
 * **Languages & Frameworks:** C#, ASP.NET, .NET Framework, ADO.NET, LINQ, Entity Framework
+
+* ## Key Projects
+
+### [ICAR Land Record Management System (LRMS)](https://icar.gov.in)
+* **Tech Stack:** ASP.NET C#, SQL Server, LDAP, KRISHI JSON APIs
+* **Description:** National land and asset records platform. Delivered a dynamic forms engine and reporting, LDAP single sign-on, dashboards, alerts, and email notifications. Built master plan and works-monitoring modules along with competent-authority level reporting. Data is automatically fetched and sync’d via KRISHI JSON APIs.
+
+### [ICAR APAR Online — Annual Performance Appraisal System](https://icar.gov.in)
+* **Tech Stack:** ASP.NET C#, SQL Server, XML APIs, PDF Generation
+* **Description:** Digitized the annual performance appraisal process for ICAR staff. Implemented a robust multi-stage approval cycle with distinct Reporting Officer and Reviewing Officer marking stages. Engineered XML API data ingestion with post-fetch editing before persistence, and automated PDF generation of the completed appraisal upon final submission.
+
+### [Academic Management System (AMS)](https://auams.in)
+* **Tech Stack:** ASP.NET C#, SQL Server
+* **Description:** Multi-tenant academic platform serving Heads, Guides, Faculty, Teachers, Students, and Administrators across 50 institutes. Manages courses, student records, and faculty data, allowing each user group to securely publish and retrieve discipline-specific information within a unified system.
+
+### [ICAR ARMS — Agricultural Research Management System](https://arms.icar.gov.in)
+* **Tech Stack:** ASP.NET C#, SQL Server
+* **Description:** Research administration platform built to track institutional progress. Designed and developed form and reporting modules covering capacity building, awards, teaching records, and students guided.
+
+### [ICAR FVMS — File and Vehicle Movement System](https://fvms.icar.gov.in)
+* **Tech Stack:** ASP.NET C#, SQL Server
+* **Description:** Workflow system digitizing file movement "through proper channel". Delivered complex routing logic and reporting features that replaced manual physical file tracking with a fully auditable digital trail.
+
+---
+
+## Education
+
+### M.Tech — Computer Science
+**Graduation:** Nov 2011  
+* **Dissertation:** Wireless Ad Hoc Networks
+
+### B.Tech — Electronics and Communication Engineering
+**Graduation:** Apr 2004  
+* **Major Project:** Solid State Oscilloscope
+* 
