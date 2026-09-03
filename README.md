@@ -39,7 +39,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ### Young Professional – II (Software Developer)
 **ICAR – Indian Veterinary Research Institute (IVRI), Izatnagar, Uttar Pradesh** | *Dec 2016 – Nov 2018 (1 yr 11 mos)*
 
-* **Academic Management System (AMS):** Developed the AMS deployed across 50 ICAR institutes, serving Heads, Guides, Faculty, Teachers, Students, and Administrators through role-specific interfaces and permissions.
+* **ICAR –Academic Management System (AMS):** Developed the AMS deployed across 50 ICAR institutes, serving Heads, Guides, Faculty, Teachers, Students, and Administrators through role-specific interfaces and permissions.
 * **Workflow Digitization:** Built modules for course management, student records, faculty administration, and discipline-wise academic information retrieval, replacing paper-based administration with a time-bound digital workflow.
 * **Stakeholder Engagement:** Engaged directly with academic and administrative stakeholders to translate institutional processes into application requirements and delivered iteratively against them.
 * **Performance Recognition:** Retained across three successive contract renewals on the strength of delivery performance.
