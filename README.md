@@ -7,7 +7,7 @@ Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
   
 ## Technical Skills
 
-* **Languages & Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, LINQ, Entity Framework/Entity Framework Core
+* **Languages & Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
 * **Web Services & APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption
 * **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind
 * **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization
@@ -45,7 +45,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Performance Recognition:** Retained across three successive contract renewals on the strength of delivery performance.
 
 ## Technical Skills
-* **Languages & Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, LINQ, Entity Framework/Entity Framework Core
+* **Languages & Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
 
 * ## Key Projects
 
