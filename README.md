@@ -45,7 +45,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Performance Recognition:** Retained across three successive contract renewals on the strength of delivery performance.
 
 ## Technical Skills
-* **Languages & Frameworks:** C#, ASP.NET, .NET Framework, ADO.NET, LINQ, Entity Framework
+* **Languages & Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, LINQ, Entity Framework/Entity Framework Core
 
 * ## Key Projects
 
