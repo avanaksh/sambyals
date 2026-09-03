@@ -53,7 +53,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Tech Stack:** ASP.NET C#, SQL Server, LDAP, KRISHI JSON APIs
 * **Description:** National land and asset records platform. Delivered a dynamic forms engine and reporting, LDAP single sign-on, dashboards, alerts, and email notifications. Built master plan and works-monitoring modules along with competent-authority level reporting. Data is automatically fetched and sync’d via KRISHI JSON APIs.
 
-### [ICAR APAR Online — Annual Performance Appraisal System](https://icar.gov.in)
+### [ICAR APAR Online — Annual Performance Appraisal Report System(APARs)](https://icar.gov.in)
 * **Tech Stack:** ASP.NET C#, SQL Server, XML APIs, PDF Generation
 * **Description:** Digitized the annual performance appraisal process for ICAR staff. Implemented a robust multi-stage approval cycle with distinct Reporting Officer and Reviewing Officer marking stages. Engineered XML API data ingestion with post-fetch editing before persistence, and automated PDF generation of the completed appraisal upon final submission.
 
@@ -61,11 +61,11 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Multi-tenant academic platform serving Heads, Guides, Faculty, Teachers, Students, and Administrators across 50 institutes. Manages courses, student records, and faculty data, allowing each user group to securely publish and retrieve discipline-specific information within a unified system.
 
-### [ICAR ARMS — Agricultural Research Management System](https://arms.icar.gov.in)
+### [ICAR ARMS — Agricultural Research Management System(ARMS)](https://arms.icar.gov.in)
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Research administration platform built to track institutional progress. Designed and developed form and reporting modules covering capacity building, awards, teaching records, and students guided.
 
-### [ICAR FVMS — Foreign Visit Management System](https://fvms.icar.gov.in)
+### [ICAR FVMS — Foreign Visit Management System(FVMS)](https://fvms.icar.gov.in)
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Workflow system digitizing file movement "through proper channel". Delivered complex routing logic and reporting features that replaced manual physical file tracking with a fully auditable digital trail.
 
