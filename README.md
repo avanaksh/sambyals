@@ -49,7 +49,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 * ## Key Projects
 
-### [ICAR Land Record Management System (LRMS)](https://icar.gov.in)
+### [ICAR — Land Record Management System (LRMS)](https://icar.gov.in)
 * **Tech Stack:** ASP.NET C#, SQL Server, LDAP, KRISHI JSON APIs
 * **Description:** National land and asset records platform. Delivered a dynamic forms engine and reporting, LDAP single sign-on, dashboards, alerts, and email notifications. Built master plan and works-monitoring modules along with competent-authority level reporting. Data is automatically fetched and sync’d via KRISHI JSON APIs.
 
