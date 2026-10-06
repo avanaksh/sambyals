@@ -1,19 +1,18 @@
 # Avanaksh Singh Sambyal
-**Full Stack .Net Developer** | ASP.NET C# · Web API · Web Applications
+**Full Stack .Net Developer** | ASP.NET C# · Web API · Web Applications · Android Applications
 
 Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
-* **LinkedIn:** [linkedin.com/in/avanaksh-sambyal](https://linkedin.com)
   
 ## Technical Skills
 
-* **Languages & Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
-* **Web Services & APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption
+* **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
+* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption
 * **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind
 * **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization
-* **Security & Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
-* **Reporting & Documents:** Dynamic report generation, PDF generation, MS Word / Excel export
+* **Security and Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
+* **Reporting and Documents:** Dynamic report generation, PDF generation, MS Word / Excel export
 * **Application Capabilities:** Multi-stage approval workflows, File movement and routing systems, Dashboards, Alerts, Automated email notifications, Master-data management
-* **Tools & Practices:** Visual Studio, IIS deployment, Git, Requirement analysis, Production support, Change management
+* **Tools and Practices:** Visual Studio, IIS deployment, Git, Requirement analysis, Production support, Change management
 * **Domain Expertise:** e-Governance, Government and research MIS, Academic management systems, HR appraisal systems, Land and asset records management
 * 
 
