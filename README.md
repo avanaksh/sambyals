@@ -5,14 +5,14 @@ Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
   
 ## Technical Skills
 
-* **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
-* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption
+* **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core, Kotlin
+* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI)
 * **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind
-* **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization
+* **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization, Sqlite
 * **Security and Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
 * **Reporting and Documents:** Dynamic report generation, PDF generation, MS Word / Excel export
 * **Application Capabilities:** Multi-stage approval workflows, File movement and routing systems, Dashboards, Alerts, Automated email notifications, Master-data management
-* **Tools and Practices:** Visual Studio, IIS deployment, Git, Requirement analysis, Production support, Change management
+* **Tools and Practices:** Visual Studio, IIS deployment, Git, Requirement analysis, Production support, Change management, Android Studio
 * **Domain Expertise:** e-Governance, Government and research MIS, Academic management systems, HR appraisal systems, Land and asset records management
 * 
 
