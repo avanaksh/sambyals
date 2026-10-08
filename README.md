@@ -1,5 +1,5 @@
 # Avanaksh Singh Sambyal
-**Full Stack .Net Developer** | ASP.NET C# · Web API · Web Applications · Android Applications
+**Full Stack .Net Developer** | ASP.NET C# · Web API · Web Applications · Android Applications -AI Ecosystem
 
 Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
   
