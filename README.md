@@ -14,7 +14,6 @@ Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
 * **Application Capabilities:** Multi-stage approval workflows, File movement and routing systems, Dashboards, Alerts, Automated email notifications, Master-data management
 * **Tools and Practices:** Visual Studio, IIS deployment, Git, Requirement analysis, Production support, Change management, Android Studio
 * **Domain Expertise:** e-Governance, Government and research MIS, Academic management systems, HR appraisal systems, Land and asset records management
-* 
 
 ## Professional Summary
 
@@ -206,7 +205,6 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * Along with projects, also developed other projects, namely:
   * **SIRform** (mobile and web)
   * **Census App** (mobile and web)
-  * **Pashu Prajanan App** (online synced), etc.
 
 ---
 
