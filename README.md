@@ -84,26 +84,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 *(Details of achievements, awards, trainings, etc.)*
 
 ---
-
-## 1. Software Developer – Web Application (Module Development)
-
-* **Project**: ICAR – Foreign Visit Management System in the Department of Agricultural Research Education (DARE) / Krishi Anusandhan Bhawan (KAB HQs) / ICAR Institutes.
-* **Key Contributions**: Changes were recommended by the former Director, Department of Agricultural Research Education (DARE), Dr. R. C. Agarwal. Earlier, when the Section Officer or Assistant was on leave, the entire file movement process was abandoned. Therefore, the complete flowchart was provided to us in document format. All recommended changes were successfully completed by the team.
-* **PI**: Dr. Mukesh Kumar
-
----
-
-## 2. Certificate – Web Application for ICAR – Agricultural Research Management System (ARMS)
-
-* **Product**: Developed for ICAR Institutes.
-* **Team**: Dr. Shashi Bhushan Lal (Lead Developer), Dr. Krishan Kumar Chaturvedi, Dr. Mukesh Kumar, Rachit Verma, Chetna Gupta, and Avanaksh Singh Sambyal (Associate Developers).
-* **Key Contributions**: Tasks included form creation and report generation. Later, modifications were carried out in forms and reports as per changing requirements. Implemented modules such as Publications (Books), Capacity Building, Awards, etc., as required.
-* **PI**: Dr. Shashi Bhushan Lal; Dr. Anil Rai, ADG, ICT Unit, ICAR.
-* **Recognition**: Received the **e-Governance Award** for this project.
-
----
-
-## 3. Software Developer – ICAR Annual Performance Appraisal Report (APAR)
+## 1. Software Developer – ICAR Annual Performance Appraisal Report (APAR)
 
 * **Responsibilities**: Form creation, report generation, approval cycle implementation, and monitoring at the reporting and reviewing officer levels.
 * **Workflow & Data Integration**: Data was fetched from Web APIs (developed by the team) and displayed in the scientist login, then saved to the database after modifications in modules such as projects, technology, capacity building, awards, etc. PDF generation after final submission was performed by scientists.
@@ -112,7 +93,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 
-## 4. Certificate – Web Application for ICAR – Land Record Management System (LRMS)
+## 2. Certificate – Web Application for ICAR – Land Record Management System (LRMS)
 
 * **Product**: Developed for ICAR Institutes.
 * **Team**: Dr. Shashi Bhushan Lal (Lead Developer), Dr. Krishan Kumar Chaturvedi, Dr. Mukesh Kumar, and Avanaksh Singh Sambyal (Associate Developers).
@@ -122,7 +103,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 
-## 5. Project Manager – Academic Management System (AMS)
+## 3. Project Manager – Academic Management System (AMS)
 
 * **Institute / Sponsoring Body**: Indian Veterinary Research Institute (IVRI), Izzatnagar, Bareilly, Uttar Pradesh (an IVRI-sponsored project).
 * **Mobile Applications Management**: Responsible for development of mobile applications (bilingual and multilingual), app management, analytics monitoring in Firebase Developer Console, issue resolution in Google Play Console, user feedback handling, and uploading new apps or updates (as guided by PI, CCPI, and Co-PIs).
@@ -148,7 +129,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 
-## 6. Research Paper
+## 4. Research Paper
 
 * **Title**: *IVRI Pashu Prajanan App: A Tool for Knowledge Dissemination on Animal Reproduction*
 * **First Authors**: Mukesh Kumar
@@ -156,27 +137,27 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 
-## 7. Hindi Pakhwada Award
+## 5. Hindi Pakhwada Award
 
 * During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **First Prize** for the Hindi work/presentation titled:
   > *“पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।”*
 
 ---
 
-## 8. Certifications
+## 6. Certifications
 
 1. **Machine Learning with Python** – Big Data University, IBM (CognitiveClass.ai, Online Mode)
 2. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur
-
+3. **
 ---
 
-## 9. Workshops Attended
+## 7. Workshops Attended
 
 * **Business Intelligence on Oracle Analytics Cloud** – Oracle University
 
 ---
 
-## 10. Self-Developed Mobile Applications / Web Apps / Agentic AI Apps or Products
+## 8. Self-Developed Mobile Applications / Web Apps / Agentic AI Apps or Products
 
 ### i. PopCens App
 * A mobile application developed to store census-related data of the population of India.
@@ -229,13 +210,13 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 
-## 11. Ph.D. Entrance Examination (GGSIPU)
+## 9. Ph.D. Entrance Examination (GGSIPU)
 
 * Cleared Ph.D. (CS/IT) Entrance Examination for GGSIPU Dwarka Delhi (2016).
 
 ---
 
-## 12. Ph.D. Entrance Examination (DTU)
+## 10. Ph.D. Entrance Examination (DTU)
 
 * Cleared Ph.D. (CS) Entrance Examination for DTU Shahbad Dairy Bawana Delhi (**Topped Entrance Examination 2022**).
 
