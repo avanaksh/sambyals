@@ -79,4 +79,163 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ### B.Tech — Electronics and Communication Engineering
 **Graduation:** Apr 2004  
 * **Major Project:** Solid State Oscilloscope
+---
+# Any Other Information
+*(Details of achievements, awards, trainings, etc.)*
+
+---
+
+## 1. Software Developer – Web Application (Module Development)
+
+* **Project**: ICAR – Foreign Visit Management System in the Department of Agricultural Research Education (DARE) / Krishi Anusandhan Bhawan (KAB HQs) / ICAR Institutes.
+* **Key Contributions**: Changes were recommended by the former Director, Department of Agricultural Research Education (DARE), Dr. R. C. Agarwal. Earlier, when the Section Officer or Assistant was on leave, the entire file movement process was abandoned. Therefore, the complete flowchart was provided to us in document format. All recommended changes were successfully completed by the team.
+* **PI**: Dr. Mukesh Kumar
+
+---
+
+## 2. Certificate – Web Application for ICAR – Agricultural Research Management System (ARMS)
+
+* **Product**: Developed for ICAR Institutes.
+* **Team**: Dr. Shashi Bhushan Lal (Lead Developer), Dr. Krishan Kumar Chaturvedi, Dr. Mukesh Kumar, Rachit Verma, Chetna Gupta, and Avanaksh Singh Sambyal (Associate Developers).
+* **Key Contributions**: Tasks included form creation and report generation. Later, modifications were carried out in forms and reports as per changing requirements. Implemented modules such as Publications (Books), Capacity Building, Awards, etc., as required.
+* **PI**: Dr. Shashi Bhushan Lal; Dr. Anil Rai, ADG, ICT Unit, ICAR.
+* **Recognition**: Received the **e-Governance Award** for this project.
+
+---
+
+## 3. Software Developer – ICAR Annual Performance Appraisal Report (APAR)
+
+* **Responsibilities**: Form creation, report generation, approval cycle implementation, and monitoring at the reporting and reviewing officer levels.
+* **Workflow & Data Integration**: Data was fetched from Web APIs (developed by the team) and displayed in the scientist login, then saved to the database after modifications in modules such as projects, technology, capacity building, awards, etc. PDF generation after final submission was performed by scientists.
+* **SPARROW (e-Office) Integration**: The same process was later integrated into SPARROW (e-Office) to fetch ARMS (scientist) data through Web APIs developed by the team and the NIC team.
+* **PI**: Dr. Anil Rai, ADG, ICT Unit, ICAR.
+
+---
+
+## 4. Certificate – Web Application for ICAR – Land Record Management System (LRMS)
+
+* **Product**: Developed for ICAR Institutes.
+* **Team**: Dr. Shashi Bhushan Lal (Lead Developer), Dr. Krishan Kumar Chaturvedi, Dr. Mukesh Kumar, and Avanaksh Singh Sambyal (Associate Developers).
+* **Key Contributions & Features**: Tasks included form creation and report generation, followed by modifications based on changing requirements. Implemented login through Lightweight Directory Access Protocol (LDAP), dashboard, notifications, alerts, email functionality, and data fetching from KRISHI JSON APIs via URLs, which were later saved in the database (as guided by the PI and Reporting Officer).
+* **PI**: Dr. Krishan Kumar Chaturvedi
+* **Reporting Officer**: Dr. Shashi Bhushan Lal
+
+---
+
+## 5. Project Manager – Academic Management System (AMS)
+
+* **Institute / Sponsoring Body**: Indian Veterinary Research Institute (IVRI), Izzatnagar, Bareilly, Uttar Pradesh (an IVRI-sponsored project).
+* **Mobile Applications Management**: Responsible for development of mobile applications (bilingual and multilingual), app management, analytics monitoring in Firebase Developer Console, issue resolution in Google Play Console, user feedback handling, and uploading new apps or updates (as guided by PI, CCPI, and Co-PIs).
+* **AMS-IVRI Implementation**: Handled implementation and commissioning of the Academic Management System in the institute, report creation, and modification of functionalities at each user level. Various modules and functionalities were added, developed, integrated, tested, and commissioned into production within stipulated timelines.
+* **Product Scope & Deployment**: AMS is an ICAR-IASRI product approved by DG, ICAR, and is running across 55 universities/institutes in the ICAR domain.
+* **Technical Support & Training**: Provided technical support (offline and online) during training programs at multiple institutes/universities, including NDRI Karnal, CAU Imphal, BAU Sabour, BAU Ranchi, UHS Dharwad, UHS Bagalkot, UAS Bengaluru, GB Pant Nagar, CSHPK Palampur, AMS Raichur, etc.
+* **Leadership & Team**:
+  * **AMS PI**: Dr. Sudeep Marwaha
+  * **Co-PIs**: Dr. Alka Arora, Dr. Soumen Pal, Dr. Mukesh Kumar
+  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (IVRI), Dr. Triveni Dutt (Former JD(Edu.), IVRI; presently Acting Director, IVRI), Dr. Yashpal Singh (Consultant, IVRI), Dr. J. K. Prasad (Nodal Officer)
+  * **Team**: Dr. Sudeep Marwaha (PI), Manish Chauhan, Dinesh Kumar Rajpoot, Shyam Kumar Chauhan, and Avanaksh Singh Sambyal
+* **Web APIs Developed**:
+  * ICAR-IIMS Portal App
+  * ICAR-Student Portal App
+  * Krishi Kalyan Report for ICAR-KVK Mobile App
+  * IVRI-Artificial Insemination App
+  * IVRI-Extension Methods Tutorial Quiz App
+  * ICAR-AMS Online Examination App (PGS IARI Delhi, AMS NDRI Karnal, AMS RPCAU Samastipur, Bihar)
+* **Award**: Innovation Year Award by the Vice-Chancellor, UHS Bagalkot, Bengaluru.
+* **ICAR-IASRI & ICAR-IVRI Mobile Applications**:
+  * Apps including Animal Reproduction App, Artificial Insemination App, Pig Farming App, Landly Pig App, Dairy Manager App, and Pig Ration App were launched by the Hon’ble Minister of Agriculture / Director General, ICAR at the NASC Complex, New Delhi.
+  * Eight ICAR-IASRI & ICAR-IVRI apps were also listed in ICAR-IASRI Hindi magazines/journals and on the IASRI website, including Animal Reproduction App and Pig Farming App.
+
+---
+
+## 6. Research Paper
+
+* **Title**: *IVRI Pashu Prajanan App: A Tool for Knowledge Dissemination on Animal Reproduction*
+* **First Authors**: Mukesh Kumar
+* **Other Authors**: Sudeep Marwaha, Soumen Pal, Rupasi Tiwari, Avanaksh Singh Sambyal, and Harish Kumar.
+
+---
+
+## 7. Hindi Pakhwada Award
+
+* During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **First Prize** for the Hindi work/presentation titled:
+  > *“पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।”*
+
+---
+
+## 8. Certifications
+
+1. **Machine Learning with Python** – Big Data University, IBM (CognitiveClass.ai, Online Mode)
+2. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur
+
+---
+
+## 9. Workshops Attended
+
+* **Business Intelligence on Oracle Analytics Cloud** – Oracle University
+
+---
+
+## 10. Self-Developed Mobile Applications / Web Apps / Agentic AI Apps or Products
+
+### i. PopCens App
+* A mobile application developed to store census-related data of the population of India.
+* The app supports government policy formulation for different communities across states and UTs.
+* **Two versions developed**:
+  1. Offline data storage in the database.
+  2. Offline and online storage of data along with PDF generation through the mobile application.
+
+### ii. Science Agent using Google’s Agent Development Kit
+* An autonomous translation agent designed to translate highly technical and scientific text—spanning physics, chemistry, mathematics, biology, and quantum and allied branches—into local regional languages with zero hallucinations.
+* Powered by the Gemini API and deployed across Google Cloud infrastructure, this foundation-model-driven architecture ensures rigorous factual grounding and contextual accuracy.
+* The translation ecosystem scaled rapidly to ensure global accessibility: initially launched with 10 core languages, expanded to 49 languages, and now comprehensively supports 249 worldwide languages along with more than 140 dialectal aliases.
+* **Video Link**: [Watch Science Agent Video](https://youtube.com/watch?v=apom2rO_Xy8)
+
+### iii. Database Agent
+* An agent which can fetch and store from multiple database(s) and show results in textbox/area using Gemini API/Cloud in plain HTML with CSS design.
+* **Video Link**: [Watch Database Agent Video](https://youtu.be/9lub-jwii_g)
+
+### iv. Heat Conduction (2D)
+* The core objective of this project is to implement and run BEM, FEM, and FDM thermodynamic analyses directly within a plain HTML and CSS web interface.
+* Conceptualized in 2021 while struggling to sleep due to intense daytime and nighttime heat radiating from both the interior and exterior walls of my room. A standard ceiling fan offered no relief, simply circulating the stifling air. While air conditioning is a common fix, it is not a sustainable solution; prolonged exposure to artificial cooling reduces the human body's natural efficiency to cope with extreme heat and high humidity.
+* This realization inspired building a lightweight, accessible web tool to simulate and analyze structural heat transfer, aiming to discover better architectural and thermal insulation alternatives.
+* **Video Link**: [Watch Heat Conduction (2D) Video](https://youtu.be/XqnMlep9Nq0)
+
+### v. School Management System (Migrant Workers)
+* Developed the school management system for migrant workers in ASP.Net Technology, Tailwind, and MSSQL Database.
+* **Video Link**: [Watch SMS for Migrant Workers Video](https://youtu.be/cxptr4a71II)
+
+### vi. Bio Portal
+* Surrounded by bioinformatics education at the Bioinformatics Division of IASRI, Delhi, observed the daily friction researchers and students experience when manually processing NCBI/PubMed sequence data.
+* Engineered a deterministic sequence analysis engine in Python querying NCBI's Entrez E-Utilities API using user accession IDs and email credentials.
+* Evolved this pipeline into an autonomous agent architecture using the Agentic framework, orchestrating biological tool execution with foundation models deployed on fully serverless infrastructure.
+* Studied core sequence and genome analysis techniques referencing standard bioinformatics educational resources and tutorials by Ms. Lana Dominković and Mr. Abdul Mansoor Alzohairy, mastering specialized software including PyMOL, Jalview, UCSF Chimera, and ExPASy tools.
+* **Video Link**: [Watch Bio Portal Video](https://youtu.be/jLDmXZMZ-OI)
+
+### vii. Attendance Portal
+* Mobile app built using the RevenueCat SDK with in-app purchases, hosted live on the Amazon Store.
+* Authority Admins can add organizations along with their respective members.
+* Once logged in, a member can mark biometric morning attendance, cast votes on specific topics/issues, and mark biometric evening attendance.
+* Admins can view all member records under their authority within their login dashboard and add new voting topics.
+* Individual members have permission to add other members. Full functionality can be unlocked via optional monthly, yearly, or lifetime (Pro) access.
+* Supports promotional codes and offers a 7-day free trial for new users.
+* **Video Link**: [Watch Attendance Portal Video](https://youtube.com/shorts/IgAApPS7evk?si=2JzaO6D3VRLf2H)
+
+### Additional Projects
+* Along with projects, also developed other projects, namely:
+  * **SIRform** (mobile and web)
+  * **Census App** (mobile and web)
+  * **Pashu Prajanan App** (online synced), etc.
+
+---
+
+## 11. Ph.D. Entrance Examination (GGSIPU)
+
+* Cleared Ph.D. (CS/IT) Entrance Examination for GGSIPU Dwarka Delhi (2016).
+
+---
+
+## 12. Ph.D. Entrance Examination (DTU)
+
+* Cleared Ph.D. (CS) Entrance Examination for DTU Shahbad Dairy Bawana Delhi (**Topped Entrance Examination 2022**).
 
