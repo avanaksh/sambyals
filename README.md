@@ -88,7 +88,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Responsibilities**: Form creation, report generation, approval cycle implementation, and monitoring at the reporting and reviewing officer levels.
 * **Workflow & Data Integration**: Data was fetched from Web APIs (developed by the team) and displayed in the scientist login, then saved to the database after modifications in modules such as projects, technology, capacity building, awards, etc. PDF generation after final submission was performed by scientists.
 * **SPARROW (e-Office) Integration**: The same process was later integrated into SPARROW (e-Office) to fetch ARMS (scientist) data through Web APIs developed by the team and the NIC team.
-* **PI**: Dr. Anil Rai, ADG, ICT Unit, ICAR.
+* **PI**: Dr. Anil Rai, Former ADG, ICT Unit, ICAR.
 
 ---
 
@@ -112,7 +112,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Leadership & Team**:
   * **AMS PI**: Dr. Sudeep Marwaha
   * **Co-PIs**: Dr. Alka Arora, Dr. Soumen Pal, Dr. Mukesh Kumar
-  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (IVRI), Dr. Triveni Dutt (Former JD(Edu.), IVRI; presently Acting Director, IVRI), Dr. Yashpal Singh (Consultant, IVRI), Dr. J. K. Prasad (Nodal Officer)
+  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (IVRI), Dr. Triveni Dutt (Former JD(Edu.), IVRI; Former Acting Director, IVRI), Dr. Yashpal Singh (Consultant, IVRI), Dr. J. K. Prasad (Former Nodal Officer)
   * **Team**: Dr. Sudeep Marwaha (PI), Manish Chauhan, Dinesh Kumar Rajpoot, Shyam Kumar Chauhan, and Avanaksh Singh Sambyal
 * **Web APIs Developed**:
   * ICAR-IIMS Portal App
