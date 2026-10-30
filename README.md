@@ -6,7 +6,7 @@ Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
 ## Technical Skills
 
 * **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core, Java,Kotlin
-* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView
+* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView, Entrez e-utiities, Entrez Direct, Biopython, Matlab(Bioinformatics), AWS (Lambda, S3 bucket, user role creation and access).
 * **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind
 * **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization, Sqlite
 * **Security and Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
@@ -167,7 +167,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 1. **Machine Learning with Python** – Big Data University, IBM (CognitiveClass.ai, Online Mode)
 2. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur
-3. **Introduction to Quantum Computing: Quantum Algorithms and Qiskit, Instructors: Prof. Prabha Mandayam (IIT Madras), Anupama Ray (IBM), and Sheshashayee Raghunathan (IBM)
+3. **Introduction to Quantum Computing**: Quantum Algorithms and Qiskit, Instructors: Prof. Prabha Mandayam (IIT Madras), Anupama Ray (IBM), and Sheshashayee Raghunathan (IBM)
 ---
 
 ## 7. Workshops Attended
