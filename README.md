@@ -238,7 +238,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * Cleared Ph.D. (CS) Entrance Examination for DTU Shahbad Dairy Bawana Delhi (**Topped Entrance Examination 2022**).
 
 ---
-## List of Publications 
+## 11. List of Publications 
 *   Abstract entitled, “Populating The Census Data Using Android App – A Review”, 
     communicated in COMNET 2014, International Conference held from 14-15 Mar. 2014, PSG  
     Institute of Science and Technology, Coimbatore. 
@@ -255,7 +255,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
    organized by Department of Computer Science and Engineering, SRM University, NCR 
    campus, Modinagar, Ghaziabad, UP.
 ---
-## Conference/Symposium/Webinar 
+## 12. Conference/Symposium/Webinar 
 *  Paper presentation in 101th Indian Science Congress (ISC), 2014, “Performance Evaluation of 
     Different Garbage Collection Algorithm Based On Programming Languages Drawback /   
     Trade-off”, 3 – 7 Feb. 2014, University of Jammu, Jammu. 
