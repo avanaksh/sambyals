@@ -1,12 +1,12 @@
 # Avanaksh Singh Sambyal
-**Full Stack .Net Developer** | ASP.NET C# · Web API · Web Applications · Android Applications -AI Ecosystem
+**Full Stack .Net Developer** | ASP.NET C# · Web APIs · Web Applications · Android Applications -AI Ecosystem
 
 Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
   
 ## Technical Skills
 
 * **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core, Java,Kotlin
-* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView, Entrez e-utiities, Entrez Direct, Biopython, Matlab(Bioinformatics), AWS (Lambda, S3 bucket, user role creation and access).
+* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView, Entrez e-utiities, Entrez Direct, Biopython, Matlab(Bioinformatics), AWS (Lambda, S3 bucket, user role creation and access control).
 * **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind
 * **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization, Sqlite
 * **Security and Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
@@ -237,13 +237,13 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 *   Abstract entitled, "Populating The Census Data Using Android App – A Review", 
     communicated in COMNET 2014, International Conference held from 14-15 Mar. 2014, PSG  
     Institute of Science and Technology, Coimbatore. 
-*   Abstract entitled, "Performance Evaluation of Different Garbage Collection Algorithm Based 
-    On Programming Languages Drawback/ Trade-off", in 101th Indian Science Congress (ISC) 
+*   Abstract entitled, "[Performance Evaluation of Different Garbage Collection Algorithm Based 
+    On Programming Languages Drawback/ Trade-off](abstract_univofjammu_jk.pdf)", in 101th Indian Science Congress (ISC) 
     2014, proceedings, ICT(including Computer Sciences) stream, 3-7 Feb. 2014, University of 
     Jammu, Jammu. 
-*   Abstract entitled, "Various Image Processing Algorithms", in 100th Indian Science Congress 
+*   Abstract entitled, "[Various Image Processing Algorithms](abstract_cu_kolkata.pdf)", in 100th Indian Science Congress 
    (ISC) 2013, proceedings, ICT (including Computer Sciences) stream, 3-7 Jan. 2013, Kolkata. 
-*  Abstract entitled, "Impact of Routing Misbehavior on QoS in MANets", in 99th Indian Science 
+*  Abstract entitled, "[Impact of Routing Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", in 99th Indian Science 
    Congress (ISC) 2012, proceedings, Engineering stream, 3-7 Jan. 2012, Bhubaneswar. 
 *  Abstract entitled, "Java Applet And Its Variety Of Applications in Programming", accepted in 
    International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct 2012, 
@@ -251,13 +251,13 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
    campus, Modinagar, Ghaziabad, UP.
 ---
 ## 11. Conference/Symposium/Webinar 
-*  Paper presentation in 101th Indian Science Congress (ISC), 2014, "Performance Evaluation of 
+*  Paper presentation in 101th Indian Science Congress (ISC), 2014, "[Performance Evaluation of 
     Different Garbage Collection Algorithm Based On Programming Languages Drawback /   
-    Trade-off", 3 – 7 Feb. 2014, University of Jammu, Jammu. 
-*  [Paper presentation](paper_presentation_isca_kolkata.pdf) in 100th Indian Science Congress (ISC), 2013, "Various Image Processing
-    Algorithms", 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
-*  [Paper presentation](paper_presentation_kiit_bhubhneshwar.pdf) in 99th Indian Science Congress (ISC), 2012, "Impact of Routing  
-    Misbehavior on QoS in MANets", 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
+    Trade-off](abstract_univofjammu_jk.pdf)", 3 – 7 Feb. 2014, University of Jammu, Jammu. 
+*  [Paper presentation](paper_presentation_isca_kolkata.pdf) in 100th Indian Science Congress (ISC), 2013, "[Various Image Processing
+    Algorithms](abstract_cu_kolkata.pdf)", 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
+*  [Paper presentation](paper_presentation_kiit_bhubhneshwar.pdf) in 99th Indian Science Congress (ISC), 2012, "[Impact of Routing  
+    Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
 *  Attended the symposium, IFS, from 1 – 4 Mar. 2012, on the topic namely, "Sensor
     Technologies and Systems", in Indian Institute of Technology (IIT), Delhi. 
 *  Attended the national conference on "Business Intelligence and Date Warehousing", 
