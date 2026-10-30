@@ -125,26 +125,26 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **ICAR-IASRI & ICAR-IVRI Mobile Applications**:
   * Apps including Animal Reproduction App, Artificial Insemination App, Pig Farming App, Landly Pig App, Dairy Manager App, and Pig Ration App were launched by the Hon’ble Minister of Agriculture / Director General, ICAR at the NASC Complex, New Delhi.
   * Eight ICAR-IASRI & ICAR-IVRI apps were also listed in ICAR-IASRI Hindi magazines/journals and on the IASRI website, including Animal Reproduction App and Pig Farming App. The links provided for mobile apps:
-*  https://play.google.com/store/apps/details?id=com.ivri.iasri.dmapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.vcguideapp 
-*  https://play.google.com/store/apps/details?id=com.ivri.iasri.aiapp 
-*  https://play.google.com/store/apps/details?id=com.mraaapsjd.akmu.pasujanapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.wmapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.pig_app 
-*  https://play.google.com/store/apps/details?id=icar.iasri.ivri.pigration 
-*  https://play.google.com/store/apps/details?id=com.ivri.iasri.landlypig 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.biosecuriy 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.diseasecontrolapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.ivritechnologiesandservicesapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialc2app 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialiv 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialii 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.parasitemanagementguideapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.zoonosesapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.amrapp 
-*  https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.backyard
+*    https://play.google.com/store/apps/details?id=com.ivri.iasri.dmapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.vcguideapp 
+*    https://play.google.com/store/apps/details?id=com.ivri.iasri.aiapp 
+*    https://play.google.com/store/apps/details?id=com.mraaapsjd.akmu.pasujanapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.wmapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.pig_app 
+*    https://play.google.com/store/apps/details?id=icar.iasri.ivri.pigration 
+*    https://play.google.com/store/apps/details?id=com.ivri.iasri.landlypig 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.biosecuriy 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.diseasecontrolapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.ivritechnologiesandservicesapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialc2app 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialiv 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialii 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.parasitemanagementguideapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.zoonosesapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.amrapp 
+*    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.backyard
 
 ---
 
