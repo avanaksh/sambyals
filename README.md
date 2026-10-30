@@ -148,8 +148,8 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ---
 ## 4. Hindi Pakhwada Award
 
-* During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **First Prize** for the Hindi work/presentation titled:
-  > *“पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।”*
+* During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **Second Prize** for the Hindi work/presentation titled:
+  > *“[पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।](pakhwada_hindi_prize.pdf)”*
 
 ---
 
