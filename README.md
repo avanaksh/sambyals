@@ -220,33 +220,33 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 ## List of Publications 
-* 1. Abstract entitled, “Populating The Census Data Using Android App – A Review”, 
+*   Abstract entitled, “Populating The Census Data Using Android App – A Review”, 
     communicated in COMNET 2014, International Conference held from 14-15 Mar. 2014, PSG  
     Institute of Science and Technology, Coimbatore. 
-* 2. Abstract entitled, “Performance Evaluation of Different Garbage Collection Algorithm Based 
+*   Abstract entitled, “Performance Evaluation of Different Garbage Collection Algorithm Based 
     On Programming Languages Drawback/ Trade-off”, in 101th Indian Science Congress (ISC) 
     2014, proceedings, ICT(including Computer Sciences) stream, 3-7 Feb. 2014, University of 
     Jammu, Jammu. 
-* 3. Abstract entitled, “Various Image Processing Algorithms”, in 100th Indian Science Congress 
+*   Abstract entitled, “Various Image Processing Algorithms”, in 100th Indian Science Congress 
    (ISC) 2013, proceedings, ICT (including Computer Sciences) stream, 3-7 Jan. 2013, Kolkata. 
-* 4. Abstract entitled, “Impact of Routing Misbehavior on QoS in MANets”, in 99th Indian Science 
+*  Abstract entitled, “Impact of Routing Misbehavior on QoS in MANets”, in 99th Indian Science 
    Congress (ISC) 2012, proceedings, Engineering stream, 3-7 Jan. 2012, Bhubaneswar. 
-* 5. Abstract entitled, “Java Applet And Its Variety Of Applications in Programming”, accepted in 
+*  Abstract entitled, “Java Applet And Its Variety Of Applications in Programming”, accepted in 
    International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct 2012, 
    organized by Department of Computer Science & Engineering, SRM University, NCR 
    campus, Modinagar, Ghaziabad, UP.
 ---
 ## Conference/Symposium/Webinar 
-* 1. Paper presentation in 101th Indian Science Congress (ISC), 2014, “Performance Evaluation of 
+*  Paper presentation in 101th Indian Science Congress (ISC), 2014, “Performance Evaluation of 
     Different Garbage Collection Algorithm Based On Programming Languages Drawback /   
     Trade-off”, 3 – 7 Feb. 2014, University of Jammu, Jammu. 
-* 2. Paper presentation in 100th Indian Science Congress (ISC), 2013, “Various Image Processing 
+*  Paper presentation in 100th Indian Science Congress (ISC), 2013, “Various Image Processing 
     Algorithms”, 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
-* 3. Poster presentation in 99th Indian Science Congress (ISC), 2012, “Impact of Routing  
+*  Poster presentation in 99th Indian Science Congress (ISC), 2012, “Impact of Routing  
     Misbehavior on QoS in MANets”, 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
-* 4. Attended the symposium, IFS, from 1 – 4 Mar. 2012, on the topic namely, “Sensor
+*  Attended the symposium, IFS, from 1 – 4 Mar. 2012, on the topic namely, “Sensor
     Technologies and Systems”, in Indian Institute of Technology (IIT), Delhi. 
-* 5. Attended the national conference on “Business Intelligence and Date Warehousing”, 
+*  Attended the national conference on “Business Intelligence and Date Warehousing”, 
    Saturday, 17 Mar 2012, organized by University School of Management Studies, GGSIPU, 
    Delhi, jointly with IETE, Delhi; CSI, Delhi and Technical partners; IEEE Computer Society, 
    Delhi. 
