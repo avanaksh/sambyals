@@ -92,7 +92,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 
-## 2. [Certificate](<embed src="https://avanaksh.github.io/LRMS_Developer_certificate.pdf" type="application/pdf" />) – Web Application for ICAR – Land Record Management System (LRMS)
+## 2. [Certificate](<embed src="https://avanaksh.github.io/sambyals/LRMS_Developer_certificate.pdf" type="application/pdf" />) – Web Application for ICAR – Land Record Management System (LRMS)
 
 * **Product**: Developed for ICAR Institutes.
 * **Team**: Dr. Shashi Bhushan Lal (Lead Developer), Dr. Krishan Kumar Chaturvedi, Dr. Mukesh Kumar, and Avanaksh Singh Sambyal (Associate Developers).
@@ -164,7 +164,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ## 6. Certifications
 
-1. **[Machine Learning with Python](<embed src="https://avanaksh.github.io/IBM ML0101EN Certificate_Cognitive_Class_AVANAKSH.pdf" type="application/pdf" />)** – Big Data University, IBM (CognitiveClass.ai, Online Mode)
+1. **[Machine Learning with Python](<embed src="https://avanaksh.github.io/sambyals/IBM ML0101EN Certificate_Cognitive_Class_AVANAKSH.pdf" type="application/pdf" />)** – Big Data University, IBM (CognitiveClass.ai, Online Mode)
 2. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur
 3. **Introduction to Quantum Computing**: Quantum Algorithms and Qiskit, Instructors: Prof. Prabha Mandayam (IIT Madras), Anupama Ray (IBM), and Sheshashayee Raghunathan (IBM)
 ---
