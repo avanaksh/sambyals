@@ -119,7 +119,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
   * ICAR-Student Portal App
   * Krishi Kalyan Report for ICAR-KVK Mobile App
   * IVRI-Artificial Insemination App
-  * IVRI-Extension Methods Tutorial Quiz App
+  * IVRI-Extension Methods Tutorial App
   * ICAR-AMS Online Examination App (PGS IARI Delhi, AMS NDRI Karnal, AMS RPCAU Samastipur, Bihar)
 * **Award**: Innovation Year Award by the Vice-Chancellor, UHS Bagalkot, Bengaluru.
 * **ICAR-IASRI and ICAR-IVRI Mobile Applications**:
