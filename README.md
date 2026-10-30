@@ -220,13 +220,13 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 
-## 8. Ph.D. Entrance Examination (GGSIPU)
+## 8. Ph.D. Entrance Examination (GGSIPU) - [Admission Form](admission_form_ggsipu.pdf)
 
 * Cleared Ph.D. (CS/IT) Entrance Examination for GGSIPU Dwarka Delhi (2016).
 
 ---
 
-## 9. Ph.D. Entrance Examination (DTU)
+## 9. Ph.D. Entrance Examination ([DTU, formerly DCE](dtu_entrance_exam.pdf))
 
 * Cleared Ph.D. (CS) Entrance Examination for DTU Shahbad Dairy Bawana Delhi (**Topped Entrance Examination 2022**).
 
