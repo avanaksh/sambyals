@@ -43,7 +43,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Performance Recognition:** Retained across three successive contract renewals on the strength of delivery performance.
 
 ## Technical Skills
-* **Languages & Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
+* **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
 
 * ## Key Projects
 
@@ -86,7 +86,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ## 1. Software Developer – ICAR Annual Performance Appraisal Report (APAR)
 
 * **Responsibilities**: Form creation, report generation, approval cycle implementation, and monitoring at the reporting and reviewing officer levels.
-* **Workflow & Data Integration**: Data was fetched from Web APIs (developed by the team) and displayed in the scientist login, then saved to the database after modifications in modules such as projects, technology, capacity building, awards, etc. PDF generation after final submission was performed by scientists.
+* **Workflow and Data Integration**: Data was fetched from Web APIs (developed by the team) and displayed in the scientist login, then saved to the database after modifications in modules such as projects, technology, capacity building, awards, etc. PDF generation after final submission was performed by scientists.
 * **SPARROW (e-Office) Integration**: The same process was later integrated into SPARROW (e-Office) to fetch ARMS (scientist) data through Web APIs developed by the team and the NIC team.
 * **PI**: Dr. Anil Rai, Former ADG, ICT Unit, ICAR.
 
@@ -96,7 +96,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 * **Product**: Developed for ICAR Institutes.
 * **Team**: Dr. Shashi Bhushan Lal (Lead Developer), Dr. Krishan Kumar Chaturvedi, Dr. Mukesh Kumar, and Avanaksh Singh Sambyal (Associate Developers).
-* **Key Contributions & Features**: Tasks included form creation and report generation, followed by modifications based on changing requirements. Implemented login through Lightweight Directory Access Protocol (LDAP), dashboard, notifications, alerts, email functionality, and data fetching from KRISHI JSON APIs via URLs, which were later saved in the database (as guided by the PI and Reporting Officer).
+* **Key Contributions and Features**: Tasks included form creation and report generation, followed by modifications based on changing requirements. Implemented login through Lightweight Directory Access Protocol (LDAP), dashboard, notifications, alerts, email functionality, and data fetching from KRISHI JSON APIs via URLs, which were later saved in the database (as guided by the PI and Reporting Officer).
 * **PI**: Dr. Krishan Kumar Chaturvedi
 * **Reporting Officer**: Dr. Shashi Bhushan Lal
 
@@ -107,9 +107,9 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Institute / Sponsoring Body**: Indian Veterinary Research Institute (IVRI), Izzatnagar, Bareilly, Uttar Pradesh (an IVRI-sponsored project).
 * **Mobile Applications Management**: Responsible for development of mobile applications (bilingual and multilingual), app management, analytics monitoring in Firebase Developer Console, issue resolution in Google Play Console, user feedback handling, and uploading new apps or updates (as guided by PI, CCPI, and Co-PIs).
 * **AMS-IVRI Implementation**: Handled implementation and commissioning of the Academic Management System in the institute, report creation, and modification of functionalities at each user level. Various modules and functionalities were added, developed, integrated, tested, and commissioned into production within stipulated timelines.
-* **Product Scope & Deployment**: AMS is an ICAR-IASRI product approved by DG, ICAR, and is running across 55 universities/institutes in the ICAR domain.
-* **Technical Support & Training**: Provided technical support (offline and online) during training programs at multiple institutes/universities, including NDRI Karnal, CAU Imphal, BAU Sabour, BAU Ranchi, UHS Dharwad, UHS Bagalkot, UAS Bengaluru, GB Pant Nagar, CSHPK Palampur, AMS Raichur, etc.
-* **Leadership & Team**:
+* **Product Scope and Deployment**: AMS is an ICAR-IASRI product approved by DG, ICAR, and is running across 55 universities/institutes in the ICAR domain.
+* **Technical Support and Training**: Provided technical support (offline and online) during training programs at multiple institutes/universities, including NDRI Karnal, CAU Imphal, BAU Sabour, BAU Ranchi, UHS Dharwad, UHS Bagalkot, UAS Bengaluru, GB Pant Nagar, CSHPK Palampur, AMS Raichur, etc.
+* **Leadership and Team**:
   * **AMS PI**: Dr. Sudeep Marwaha
   * **Co-PIs**: Dr. Alka Arora, Dr. Soumen Pal, Dr. Mukesh Kumar
   * **Mobile Apps PIs**: Dr. Rupasi Tiwari (IVRI), Dr. Triveni Dutt (Former JD(Edu.), IVRI; Former Acting Director, IVRI), Dr. Yashpal Singh (Consultant, IVRI), Dr. J. K. Prasad (Former Nodal Officer)
@@ -122,9 +122,9 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
   * IVRI-Extension Methods Tutorial Quiz App
   * ICAR-AMS Online Examination App (PGS IARI Delhi, AMS NDRI Karnal, AMS RPCAU Samastipur, Bihar)
 * **Award**: Innovation Year Award by the Vice-Chancellor, UHS Bagalkot, Bengaluru.
-* **ICAR-IASRI & ICAR-IVRI Mobile Applications**:
+* **ICAR-IASRI and ICAR-IVRI Mobile Applications**:
   * Apps including Animal Reproduction App, Artificial Insemination App, Pig Farming App, Landly Pig App, Dairy Manager App, and Pig Ration App were launched by the Hon’ble Minister of Agriculture / Director General, ICAR at the NASC Complex, New Delhi.
-  * Eight ICAR-IASRI & ICAR-IVRI apps were also listed in ICAR-IASRI Hindi magazines/journals and on the IASRI website, including Animal Reproduction App and Pig Farming App. The links provided for mobile apps:
+  * Eight ICAR-IASRI and ICAR-IVRI apps were also listed in ICAR-IASRI Hindi magazines/journals and on the IASRI website, including Animal Reproduction App and Pig Farming App. The links provided for mobile apps:
 *    https://play.google.com/store/apps/details?id=com.ivri.iasri.dmapp 
 *    https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.vcguideapp 
 *    https://play.google.com/store/apps/details?id=com.ivri.iasri.aiapp 
@@ -253,7 +253,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
    Congress (ISC) 2012, proceedings, Engineering stream, 3-7 Jan. 2012, Bhubaneswar. 
 *  Abstract entitled, “Java Applet And Its Variety Of Applications in Programming”, accepted in 
    International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct 2012, 
-   organized by Department of Computer Science & Engineering, SRM University, NCR 
+   organized by Department of Computer Science and Engineering, SRM University, NCR 
    campus, Modinagar, Ghaziabad, UP.
 ---
 ## Conference/Symposium/Webinar 
@@ -270,8 +270,8 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
    Saturday, 17 Mar 2012, organized by University School of Management Studies, GGSIPU, 
    Delhi, jointly with IETE, Delhi; CSI, Delhi and Technical partners; IEEE Computer Society, 
    Delhi. 
-*  Attended the Niksun World wide Security & Mobility Conference, 12 Apr. 2012, organized by 
+*  Attended the Niksun World wide Security and Mobility Conference, 12 Apr. 2012, organized by 
    Indian Institute of Technology, Delhi. 
-*  Attended 2nd International Conference on Computer Science, Engineering & Application, 25 –
+*  Attended 2nd International Conference on Computer Science, Engineering and Application, 25 –
    26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi. 
 ---
