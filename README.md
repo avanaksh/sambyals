@@ -276,4 +276,4 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 *  Attended 2nd International Conference on Computer Science, Engineering and Application, 25 –
    26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi. 
 ---
-## 13. [Gate Score Card in Computer Science and IT Discipline](gate_scorecard_csit.pdf) 
+## 13. [Gate Score Card in Computer Science and IT Discipline](gate_scorecard_csit.pdf) 78 percentile
