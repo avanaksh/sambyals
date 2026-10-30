@@ -164,7 +164,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ## 6. Certifications
 
-1. **Machine Learning with Python** – Big Data University, IBM (CognitiveClass.ai, Online Mode)
+1. **[Machine Learning with Python](<embed src="https://avanaksh.github.io/IBM ML0101EN Certificate _ Cognitive Class_AVANAKSH.pdf" type="application/pdf" />)** – Big Data University, IBM (CognitiveClass.ai, Online Mode)
 2. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur
 3. **Introduction to Quantum Computing**: Quantum Algorithms and Qiskit, Instructors: Prof. Prabha Mandayam (IIT Madras), Anupama Ray (IBM), and Sheshashayee Raghunathan (IBM)
 ---
