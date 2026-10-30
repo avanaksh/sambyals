@@ -125,26 +125,26 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **ICAR-IASRI and ICAR-IVRI Mobile Applications**:
   * Apps including Animal Reproduction App, Artificial Insemination App, Pig Farming App, Landly Pig App, Dairy Manager App, and Pig Ration App were launched by the Hon’ble Minister of Agriculture / Director General, ICAR at the NASC Complex, New Delhi.
   * Eight ICAR-IASRI and ICAR-IVRI apps were also listed in ICAR-IASRI Hindi magazines/journals and on the IASRI website, including Animal Reproduction App and Pig Farming App. The links provided for mobile apps:
-* [Dairy Manager App](https://play.google.com/store/apps/details?id=com.ivri.iasri.dmapp)
-* [Vaccination Guide App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.vcguideapp)
-* [Artificial Insemination App](https://play.google.com/store/apps/details?id=com.ivri.iasri.aiapp)
-* [Animal Reproduction App](https://play.google.com/store/apps/details?id=com.mraaapsjd.akmu.pasujanapp)
-* [Waste Management Guide App](https://play.google.com/store/apps/details?id=com.mraaapsjd.akmu.pasujanapp)
-* [Pig Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.pig_app)
-* [Pig Ration App](https://play.google.com/store/apps/details?id=icar.iasri.ivri.pigration)
-* [Landly Pig App](https://play.google.com/store/apps/details?id=com.ivri.iasri.landlypig)
-* [Veterinary Clinical Care App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp)
-* [Biosecurity and Biosafety App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.biosecuriy)
-* [Disease Control App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.diseasecontrolapp)
-* [Technologies and Services App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.ivritechnologiesandservicesapp)
-* [Extension Methods Tutorial App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialapp)
-* [Research Methods Tutorial App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialc2app)
-* [Animal Genetics and Breeding Tutorial App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialiv)
-* [Veterinary Surgery and Radiology Tutorial App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialii)
-* [Parasite Management Guide App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.parasitemanagementguideapp)
-* [Zoonoses App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.zoonosesapp)
-* [Antimicrobial Resistance App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.amrapp)
-* [Backyard Poultry Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.backyard)
+* [Dairy Manager App](https://play.google.com/store/apps/details?id=com.ivri.iasri.dmapp).
+* [Vaccination Guide App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.vcguideapp).
+* [Artificial Insemination App](https://play.google.com/store/apps/details?id=com.ivri.iasri.aiapp).
+* [Animal Reproduction App](https://play.google.com/store/apps/details?id=com.mraaapsjd.akmu.pasujanapp).
+* [Waste Management Guide App](https://play.google.com/store/apps/details?id=com.mraaapsjd.akmu.pasujanapp).
+* [Pig Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.pig_app).
+* [Pig Ration App](https://play.google.com/store/apps/details?id=icar.iasri.ivri.pigration).
+* [Landly Pig App](https://play.google.com/store/apps/details?id=com.ivri.iasri.landlypig).
+* [Veterinary Clinical Care App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp).
+* [Biosecurity and Biosafety App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.biosecuriy).
+* [Disease Control App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.diseasecontrolapp).
+* [Technologies and Services App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.ivritechnologiesandservicesapp).
+* [Extension Methods Tutorial App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialapp).
+* [Research Methods Tutorial App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialc2app).
+* [Animal Genetics and Breeding Tutorial App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialiv).
+* [Veterinary Surgery and Radiology Tutorial App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.tutorialii).
+* [Parasite Management Guide App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.parasitemanagementguideapp).
+* [Zoonoses App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.zoonosesapp).
+* [Antimicrobial Resistance App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.amrapp).
+* [Backyard Poultry Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.backyard).
 ---
 
 ## 4. Research Paper
