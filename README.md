@@ -123,7 +123,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
   * ICAR-AMS Online Examination App (PGS IARI Delhi, AMS NDRI Karnal, AMS RPCAU Samastipur, Bihar)
 * **Award**: Innovation Year Award by the Vice-Chancellor, UHS Bagalkot, Bengaluru.
 * **ICAR-IASRI and ICAR-IVRI Mobile Applications**:
-  * Apps including Animal Reproduction App, Artificial Insemination App, Pig Farming App, Landly Pig App, Dairy Manager App, and Pig Ration App were launched by the Hon’ble Minister of Agriculture / Director General, ICAR at the NASC Complex, New Delhi.
+  * Apps including Animal Reproduction App, Artificial Insemination App, Pig Farming App, Landly Pig App, Dairy Manager App, and Pig Ration App were launched by the Hon’ble Minister of Agriculture / Director General, ICAR at the [NASC Complex](apps_inaugural_nasc_complex.pdf), New Delhi.
   * Eight ICAR-IASRI and ICAR-IVRI apps were also listed in ICAR-IASRI Hindi magazines/journals and on the IASRI website, including Animal Reproduction App and Pig Farming App. The links provided for mobile apps:
 * [Dairy Manager App](https://play.google.com/store/apps/details?id=com.ivri.iasri.dmapp).
 * [Vaccination Guide App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.vcguideapp).
@@ -146,23 +146,14 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * [Antimicrobial Resistance App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.amrapp).
 * [Backyard Poultry Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.backyard).
 ---
-
-## 4. Research Paper
-
-* **Title**: *IVRI Pashu Prajanan App: A Tool for Knowledge Dissemination on Animal Reproduction*
-* **First Authors**: Mukesh Kumar
-* **Other Authors**: Sudeep Marwaha, Soumen Pal, Rupasi Tiwari, Avanaksh Singh Sambyal, and Harish Kumar.
-
----
-
-## 5. Hindi Pakhwada Award
+## 4. Hindi Pakhwada Award
 
 * During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **First Prize** for the Hindi work/presentation titled:
   > *“पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।”*
 
 ---
 
-## 6. Certifications
+## 5. Certifications
 1. **[BigData in R using Apache Spark](CognitiveClass_RP0105EN_Certificate_Avanaksh.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
 2. **[Machine Learning with Python](IBMML0101ENCertificate_CognitiveClass_AVANAKSH.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
 3. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur.
@@ -171,13 +162,13 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 6. **[Online Course Work](Certificate_42526_100_s69j6AvanakshSinghSambyal.pdf)** - Essential of Java Exam Course Work Conducted by Ministry of Labour and Employment, GOI. 
 ---
 
-## 7. Workshops Attended
+## 6. Workshops Attended
 
 * **Business Intelligence on Oracle Analytics Cloud** – Oracle University
 
 ---
 
-## 8. Self-Developed Mobile Applications / Web Apps / Agentic AI Apps or Products
+## 7. Self-Developed Mobile Applications / Web Apps / Agentic AI Apps or Products
 
 ### i. PopCens App
 * A mobile application developed to store census-related data of the population of India.
@@ -229,45 +220,47 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ---
 
-## 9. Ph.D. Entrance Examination (GGSIPU)
+## 8. Ph.D. Entrance Examination (GGSIPU)
 
 * Cleared Ph.D. (CS/IT) Entrance Examination for GGSIPU Dwarka Delhi (2016).
 
 ---
 
-## 10. Ph.D. Entrance Examination (DTU)
+## 9. Ph.D. Entrance Examination (DTU)
 
 * Cleared Ph.D. (CS) Entrance Examination for DTU Shahbad Dairy Bawana Delhi (**Topped Entrance Examination 2022**).
 
 ---
-## 11. List of Publications 
-*   Abstract entitled, “Populating The Census Data Using Android App – A Review”, 
+## 10. List of Publications 
+*   Abstract entitled, "IVRI Pashu Prajanan App: A Tool for Knowledge Dissemination on Animal Reproduction", 
+    in 72nd Annual Conference of Indian Society of Agricultural Statistics on Statistics, Informatics and Engineering Interventions held from Dec. 13-15 2018, ICAR-Central Institute of     Agricultural Engineering, Bhopal, MP. 
+*   Abstract entitled, "Populating The Census Data Using Android App – A Review", 
     communicated in COMNET 2014, International Conference held from 14-15 Mar. 2014, PSG  
     Institute of Science and Technology, Coimbatore. 
-*   Abstract entitled, “Performance Evaluation of Different Garbage Collection Algorithm Based 
-    On Programming Languages Drawback/ Trade-off”, in 101th Indian Science Congress (ISC) 
+*   Abstract entitled, "Performance Evaluation of Different Garbage Collection Algorithm Based 
+    On Programming Languages Drawback/ Trade-off", in 101th Indian Science Congress (ISC) 
     2014, proceedings, ICT(including Computer Sciences) stream, 3-7 Feb. 2014, University of 
     Jammu, Jammu. 
-*   Abstract entitled, “Various Image Processing Algorithms”, in 100th Indian Science Congress 
+*   Abstract entitled, "Various Image Processing Algorithms", in 100th Indian Science Congress 
    (ISC) 2013, proceedings, ICT (including Computer Sciences) stream, 3-7 Jan. 2013, Kolkata. 
-*  Abstract entitled, “Impact of Routing Misbehavior on QoS in MANets”, in 99th Indian Science 
+*  Abstract entitled, "Impact of Routing Misbehavior on QoS in MANets", in 99th Indian Science 
    Congress (ISC) 2012, proceedings, Engineering stream, 3-7 Jan. 2012, Bhubaneswar. 
-*  Abstract entitled, “Java Applet And Its Variety Of Applications in Programming”, accepted in 
+*  Abstract entitled, "Java Applet And Its Variety Of Applications in Programming", accepted in 
    International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct 2012, 
    organized by Department of Computer Science and Engineering, SRM University, NCR 
    campus, Modinagar, Ghaziabad, UP.
 ---
-## 12. Conference/Symposium/Webinar 
-*  Paper presentation in 101th Indian Science Congress (ISC), 2014, “Performance Evaluation of 
+## 11. Conference/Symposium/Webinar 
+*  Paper presentation in 101th Indian Science Congress (ISC), 2014, "Performance Evaluation of 
     Different Garbage Collection Algorithm Based On Programming Languages Drawback /   
-    Trade-off”, 3 – 7 Feb. 2014, University of Jammu, Jammu. 
-*  [Paper presentation](paper_presentation_isca_kolkata.pdf) in 100th Indian Science Congress (ISC), 2013, “Various Image Processing 
-    Algorithms”, 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
-*  [Paper presentation](paper_presentation_kiit_bhubhneshwar.pdf) in 99th Indian Science Congress (ISC), 2012, “Impact of Routing  
-    Misbehavior on QoS in MANets”, 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
-*  Attended the symposium, IFS, from 1 – 4 Mar. 2012, on the topic namely, “Sensor
-    Technologies and Systems”, in Indian Institute of Technology (IIT), Delhi. 
-*  Attended the national conference on “Business Intelligence and Date Warehousing”, 
+    Trade-off", 3 – 7 Feb. 2014, University of Jammu, Jammu. 
+*  [Paper presentation](paper_presentation_isca_kolkata.pdf) in 100th Indian Science Congress (ISC), 2013, "Various Image Processing
+    Algorithms", 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
+*  [Paper presentation](paper_presentation_kiit_bhubhneshwar.pdf) in 99th Indian Science Congress (ISC), 2012, "Impact of Routing  
+    Misbehavior on QoS in MANets", 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
+*  Attended the symposium, IFS, from 1 – 4 Mar. 2012, on the topic namely, "Sensor
+    Technologies and Systems", in Indian Institute of Technology (IIT), Delhi. 
+*  Attended the national conference on "Business Intelligence and Date Warehousing", 
    Saturday, 17 Mar 2012, organized by University School of Management Studies, GGSIPU, 
    Delhi, jointly with IETE, Delhi; CSI, Delhi and Technical partners; IEEE Computer Society, 
    Delhi. 
@@ -276,4 +269,4 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 *  Attended 2nd International Conference on Computer Science, Engineering and Application, 25 –
    26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi. 
 ---
-## 13. [Gate Score Card in Computer Science and IT Discipline](gate_scorecard_csit.pdf) 78 percentile
+## 12. [Gate Score Card in Computer Science and IT Discipline](gate_scorecard_csit.pdf) 78 percentile
