@@ -250,8 +250,8 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
    Saturday, 17 Mar 2012, organized by University School of Management Studies, GGSIPU, 
    Delhi, jointly with IETE, Delhi; CSI, Delhi and Technical partners; IEEE Computer Society, 
    Delhi. 
-* 6. Attended the Niksun World wide Security & Mobility Conference, 12 Apr. 2012, organized by 
+*  Attended the Niksun World wide Security & Mobility Conference, 12 Apr. 2012, organized by 
    Indian Institute of Technology, Delhi. 
-* 7. Attended 2nd International Conference on Computer Science, Engineering & Application, 25 –
+*  Attended 2nd International Conference on Computer Science, Engineering & Application, 25 –
    26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi. 
 ---
