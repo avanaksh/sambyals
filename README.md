@@ -261,9 +261,9 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 *  Paper presentation in 101th Indian Science Congress (ISC), 2014, “Performance Evaluation of 
     Different Garbage Collection Algorithm Based On Programming Languages Drawback /   
     Trade-off”, 3 – 7 Feb. 2014, University of Jammu, Jammu. 
-*  Paper presentation in 100th Indian Science Congress (ISC), 2013, “Various Image Processing 
+*  [Paper presentation](paper_presentation_isca_kolkata.pdf) in 100th Indian Science Congress (ISC), 2013, “Various Image Processing 
     Algorithms”, 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
-*  Poster presentation in 99th Indian Science Congress (ISC), 2012, “Impact of Routing  
+*  [Paper presentation](paper_presentation_kiit_bhubhneshwar.pdf) in 99th Indian Science Congress (ISC), 2012, “Impact of Routing  
     Misbehavior on QoS in MANets”, 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
 *  Attended the symposium, IFS, from 1 – 4 Mar. 2012, on the topic namely, “Sensor
     Technologies and Systems”, in Indian Institute of Technology (IIT), Delhi. 
@@ -276,3 +276,4 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 *  Attended 2nd International Conference on Computer Science, Engineering and Application, 25 –
    26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi. 
 ---
+## 13. [Gate Score Card in Computer Science and IT Discipline]() 
