@@ -112,7 +112,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Leadership and Team**:
   * **AMS PI**: Dr. Sudeep Marwaha
   * **Co-PIs**: Dr. Alka Arora, Dr. Soumen Pal, Dr. Mukesh Kumar
-  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (IVRI), Dr. Triveni Dutt (Former JD(Edu.), IVRI; Former Acting Director, IVRI), Dr. Yashpal Singh (Consultant, IVRI), Dr. J. K. Prasad (Former Nodal Officer)
+  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (IVRI), Dr. Triveni Dutt (Former JD(Edu.), IVRI; Former Acting Director, IVRI), Dr. Yashpal Singh (Scientist, IVRI), Dr. J. K. Prasad (Former Nodal Officer)
   * **Team**: Dr. Sudeep Marwaha (PI), Manish Chauhan, Dinesh Kumar Rajpoot, Shyam Kumar Chauhan, and Avanaksh Singh Sambyal
 * **Web APIs Developed**:
   * ICAR-IIMS Portal App
