@@ -164,7 +164,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ## 6. Certifications
 1. **[BigData in R using Apache Spark](CognitiveClass_RP0105EN_Certificate_Avanaksh.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
-2. **[Machine Learning with Python](IBMML0101ENCertificate_Cognitive Class_AVANAKSH.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
+2. **[Machine Learning with Python](IBMML0101ENCertificate_CognitiveClass_AVANAKSH.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
 3. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur.
 4. **Introduction to Quantum Computing**: Quantum Algorithms and Qiskit, Instructors: Prof. Prabha Mandayam (IIT Madras), Anupama Ray (IBM), and Sheshashayee Raghunathan (IBM).
 5. **[Online Training](ISEADigitalCertificate_Avanaksh.pdf)** - Generic Online Training in Cyber Security Conducted by Meity, GOI.
