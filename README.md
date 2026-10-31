@@ -45,6 +45,14 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ## Technical Skills
 * **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
 
+### [Android Developer](e3softwareservicescertificate.pdf)
+**E3 Software Services Delhi** | *Mar 2014 – Jul 2016 (2 yrs 4 mos)*
+
+* **Android Apps and Web Apps:** Developed the projects in android and load of core php websites was also given to me in extra.
+
+## Technical Skills
+* **Languages and Frameworks:** Android, Eclipse, Core Php, Codeigniter, Laravel, Mysql
+
 * ## Key Projects
 
 ### [ICAR — Land Record Management System (LRMS)]
