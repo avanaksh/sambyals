@@ -21,7 +21,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ## Professional Experience
 
-### [IT Professional – III (Senior Developer)](ExtensionorderITunit.pdf) 
+### [IT Professional – III](ExtensionorderITunit.pdf) 
 **ICAR – Indian Agricultural Statistics Research Institute (IASRI), Pusa Campus, New Delhi** | *Nov 2018 – Present (7 yrs 9 mos)*
 
 * **Enterprise Applications:** Design, develop, and maintain four nationally deployed ASP.NET C# web applications for the Indian Council of Agricultural Research, serving administrative and scientific staff across ICAR institutes across India.
@@ -34,7 +34,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Shared Services:** Built dashboards, alert frameworks, and automated email notification engines reused across multiple applications.
 * **Production Support:** Own post-deployment enhancement and production support: gather changing requirements from stakeholders, re-engineer forms/reports, and release changes to live systems without service disruption.
 
-### [Young Professional – II (Software Developer)](ypiicertificate.pdf)
+### [Young Professional – II](ypiicertificate.pdf)
 **ICAR – Indian Veterinary Research Institute (IVRI), Izatnagar, Uttar Pradesh** | *Dec 2016 – Nov 2018 (1 yr 11 mos)*
 
 * **ICAR –Academic Management System (AMS):** Developed the AMS deployed across 50 ICAR institutes, serving Heads, Guides, Faculty, Teachers, Students, and Administrators through role-specific interfaces and permissions.
@@ -73,7 +73,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 
 ### M.Tech — Computer Science
 **Graduation:** Nov 2011  
-* **Dissertation:** Wireless Ad Hoc Networks
+* **[Dissertation](mtech_dissertation.pdf):** Wireless Ad Hoc Networks
 
 ### B.Tech — Electronics and Communication Engineering
 **Graduation:** Apr 2004  
