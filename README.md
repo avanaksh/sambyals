@@ -66,9 +66,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ### [ICAR — Foreign Visit Management System(FVMS)]
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Workflow system digitizing file movement "through proper channel". Delivered complex routing logic and reporting features that replaced manual physical file tracking with a fully auditable digital trail.
-
 ---
-
 ## Education
 
 ### M.Tech — Computer Science
@@ -81,7 +79,6 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ---
 # Any Other Information
 *(Details of achievements, awards, trainings, etc.)*
-
 ---
 ## 1. Software Developer – ICAR Annual Performance Appraisal Report (APAR)
 
@@ -89,9 +86,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Workflow and Data Integration**: Data was fetched from Web APIs (developed by the team) and displayed in the scientist login, then saved to the database after modifications in modules such as projects, technology, capacity building, awards, etc. PDF generation after final submission was performed by scientists.
 * **SPARROW (e-Office) Integration**: The same process was later integrated into SPARROW (e-Office) to fetch ARMS (scientist) data through Web APIs developed by the team and the NIC team.
 * **PI**: Dr. Anil Rai, Former ADG, ICT Unit, ICAR.
-
 ---
-
 ## 2. [Certificate](LRMS_Developer_certificate.pdf) – Web Application for ICAR – Land Record Management System (LRMS)
 
 * **Product**: Developed for ICAR Institutes.
@@ -99,9 +94,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * **Key Contributions and Features**: Tasks included form creation and report generation, followed by modifications based on changing requirements. Implemented login through Lightweight Directory Access Protocol (LDAP), dashboard, notifications, alerts, email functionality, and data fetching from KRISHI JSON APIs via URLs, which were later saved in the database (as guided by the PI and Reporting Officer).
 * **PI**: Dr. Krishan Kumar Chaturvedi
 * **Reporting Officer**: Dr. Shashi Bhushan Lal
-
 ---
-
 ## 3. Project Manager – Academic Management System (AMS)
 
 * **Institute / Sponsoring Body**: Indian Veterinary Research Institute (IVRI), Izzatnagar, Bareilly, Uttar Pradesh (an IVRI-sponsored project).
@@ -147,12 +140,9 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * [Backyard Poultry Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.backyard).
 ---
 ## 4. Hindi Pakhwada Award
-
 * During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **Second Prize** for the Hindi work/presentation titled:
   > *“[पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।](pakhwada_hindi_prize.pdf)”*
-
 ---
-
 ## 5. Certifications
 1. **[BigData in R using Apache Spark](CognitiveClass_RP0105EN_Certificate_Avanaksh.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
 2. **[Machine Learning with Python](IBMML0101ENCertificate_CognitiveClass_AVANAKSH.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
@@ -161,13 +151,10 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 5. **[Online Training](ISEADigitalCertificate_Avanaksh.pdf)** - Generic Online Training in Cyber Security Conducted by Meity, GOI.
 6. **[Online Course Work](Certificate_42526_100_s69j6AvanakshSinghSambyal.pdf)** - Essential of Java Exam Course Work Conducted by Ministry of Labour and Employment, GOI. 
 ---
-
 ## 6. Workshops Attended
 
 * **Business Intelligence on Oracle Analytics Cloud** – Oracle University
-
 ---
-
 ## 7. Self-Developed Mobile Applications / Web Apps / Agentic AI Apps or Products
 
 ### i. PopCens App
@@ -217,21 +204,17 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 * Along with projects, also developed other projects, namely:
   * **SIRform** (mobile and web)
   * **Census App** (mobile and web)
-
 ---
-
 ## 8. Ph.D. Entrance Examination (GGSIPU) - [Admission Form](admission_form_ggsipu.pdf)
 
 * Cleared Ph.D. (CS/IT) Entrance Examination for GGSIPU Dwarka Delhi (2016).
-
 ---
-
 ## 9. Ph.D. Entrance Examination ([DTU, formerly DCE](dtu_entrance_exam.pdf))
 
 * Cleared Ph.D. (CS) Entrance Examination for DTU Shahbad Dairy Bawana Delhi (**Topped Entrance Examination 2022**).
-
 ---
 ## 10. List of Publications 
+
 *   Abstract entitled, "[IVRI Pashu Prajanan App: A Tool for Knowledge Dissemination on Animal Reproduction](abstract_pashu_prajanan_app.pdf)", 
     in 72nd Annual Conference of Indian Society of Agricultural Statistics on Statistics, Informatics and Engineering Interventions held from   Dec. 13-15 2018, ICAR-Central Institute of Agricultural Engineering, Bhopal, MP. 
 *   Abstract entitled, "Populating The Census Data Using Android App – A Review", 
@@ -251,6 +234,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
    campus, Modinagar, Ghaziabad, UP.
 ---
 ## 11. Conference/Symposium/Webinar 
+
 *  Paper presentation in 101th Indian Science Congress (ISC), 2014, "[Performance Evaluation of 
     Different Garbage Collection Algorithm Based On Programming Languages Drawback /   
     Trade-off](abstract_univofjammu_jk.pdf)", 3 – 7 Feb. 2014, University of Jammu, Jammu. 
@@ -272,4 +256,8 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ## 12. [Gate Score Card in Computer Science and IT Discipline](gate_scorecard_csit.pdf) 78 percentile
 ---
 ## 13. [B.Tech. Final Year Project and 2nd Year Training](btech_project_training.pdf)
+---
+## 14. [CDAC PGD Wireless and Mobile Computing](btech_project_training.pdf)
+---
+## 15. [Others Documents](btech_project_training.pdf)
 ---
