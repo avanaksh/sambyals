@@ -257,7 +257,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 ---
 ## 13. [B.Tech. Final Year Project and 2nd Year Training](btech_project_training.pdf)
 ---
-## 14. [CDAC PGD Wireless and Mobile Computing](btech_project_training.pdf)
+## 14. [CDAC PGD Wireless and Mobile Computing](cdac_certificate.pdf)
 ---
-## 15. [Others Documents](btech_project_training.pdf)
+## 15. [Others Documents](others_certificate.pdf)
 ---
