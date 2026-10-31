@@ -1,4 +1,4 @@
-# Avanaksh Singh Sambyal
+# Avanaksh Singh Sambyal [AMIETE]()
 **Full Stack .Net Developer** | ASP.NET C# · Web APIs · Web Applications · Android Applications -AI Ecosystem
 
 Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
@@ -7,7 +7,7 @@ Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
 
 * **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core, Java,Kotlin
 * **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView, Entrez e-utiities, Entrez Direct, Biopython, Matlab(Bioinformatics), AWS (Lambda, S3 bucket, user role creation and access control).
-* **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind
+* **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind, Bulma
 * **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization, Sqlite
 * **Security and Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
 * **Reporting and Documents:** Dynamic report generation, PDF generation, MS Word / Excel export
@@ -246,7 +246,7 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
 *  Abstract entitled, "[Impact of Routing Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", in 99th Indian Science 
    Congress (ISC) 2012, proceedings, Engineering stream, 3-7 Jan. 2012, Bhubaneswar. 
 *  Abstract entitled, "Java Applet And Its Variety Of Applications in Programming", accepted in 
-   International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct 2012, 
+   International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct. 2012, 
    organized by Department of Computer Science and Engineering, SRM University, NCR 
    campus, Modinagar, Ghaziabad, UP.
 ---
@@ -270,3 +270,6 @@ Full Stack .NET developer with **9+ years of experience** designing, building, a
    26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi. 
 ---
 ## 12. [Gate Score Card in Computer Science and IT Discipline](gate_scorecard_csit.pdf) 78 percentile
+---
+## 13. [B.Tech. Final Year Project and 2nd Year Training](btech_project_training.pdf)
+---
