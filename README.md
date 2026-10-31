@@ -1,5 +1,5 @@
-# Avanaksh Singh Sambyal [AMIETE]()
-**Full Stack .Net Developer** | ASP.NET C# · Web APIs · Web Applications · Android Applications -AI Ecosystem
+# Avanaksh Singh Sambyal 
+**Full Stack .Net Developer** | ASP.NET C# · Web APIs · Web Applications · Android Applications -AI Ecosystem-[AMIETE](amiete_certificate_card.pdf)
 
 Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
   
