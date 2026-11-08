@@ -113,7 +113,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Leadership and Team**:
   * **AMS PI**: Dr. Sudeep Marwaha
   * **Co-PIs**: Dr. Alka Arora, Dr. Soumen Pal, Dr. Mukesh Kumar
-  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (Joint Director, IVRI), Dr. Triveni Dutt, Presently Vice Chancellor, Sardar Vallabhbhai Patel University of Agriculture and Technology, Meerut (Former Acting Director, IVRI, Former JD(Edu.,Extn.,Research), IVRI;), Dr. Yashpal Singh (Scientist, IVRI), Dr. J. K. Prasad (Former Nodal Officer)
+  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (Joint Director, IVRI), Dr. Triveni Dutt, Presently [Vice Chancellor](vcsir_merged.pdf), Sardar Vallabhbhai Patel University of Agriculture and Technology, Meerut (Former Acting Director, IVRI, Former JD(Edu.,Extn.,Research), IVRI;), Dr. Yashpal Singh (Scientist, IVRI), Dr. J. K. Prasad (Former Nodal Officer)
   * **Team**: Dr. Sudeep Marwaha (PI), Manish Chauhan, Dinesh Kumar Rajpoot, Shyam Kumar Chauhan, and Avanaksh Singh Sambyal
 * **Web APIs Developed**:
   * ICAR-IIMS Portal App
