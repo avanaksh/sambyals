@@ -237,7 +237,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
    (ISC) 2013, proceedings, ICT (including Computer Sciences) stream, 3-7 Jan. 2013, Kolkata. 
 *  Abstract entitled, "[Impact of Routing Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", in 99th Indian Science 
    Congress (ISC) 2012, proceedings, Engineering stream, 3-7 Jan. 2012, Bhubaneswar. 
-*  Abstract entitled, "Java Applet And Its Variety Of Applications in Programming", accepted in 
+*  Abstract entitled, "[Java Applet And Its Variety Of Applications in Programming](abstract_java_applets.pdf)", accepted in 
    International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct. 2012, 
    organized by Department of Computer Science and Engineering, SRM University, NCR 
    campus, Modinagar, Ghaziabad, UP.
