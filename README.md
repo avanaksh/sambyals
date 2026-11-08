@@ -146,6 +146,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * [Zoonoses App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.zoonosesapp).
 * [Antimicrobial Resistance App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.amrapp).
 * [Backyard Poultry Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.backyard).
+* NAE App - This Application along with the database provides past and recent technology, based on crop protection and production. Any user like Researcher, Farmer, Student and Education staff can get benefit of viewing these technology details from this developed information system and can be used for their future research work.
 ---
 ## 4. Hindi Pakhwada Award
 * During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **Second Prize** for the Hindi work/presentation titled:
