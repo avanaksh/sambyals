@@ -134,6 +134,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * [Pig Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.pig_app).
 * [Pig Ration App](https://play.google.com/store/apps/details?id=icar.iasri.ivri.pigration).
 * [Landly Pig App](https://play.google.com/store/apps/details?id=com.ivri.iasri.landlypig).
+* Landlly Pig App has been designed and developed by ICAR-IVRI, Izatnagar in collaboration with ICAR-IASRI, New Delhi. The basic objective is to impart knowledge about faster growing pig variety namely Landlly developed by ICAR-IVRI, Izatnagar and released by Shri Radha Mohan Singh Ji, Hon’ble Union Minister of Agriculture and Farmers Welfare, GOI on the occasion of Annual Conference of Vice Chancellors of Agricultural Universities and Directors of ICAR institutes at A P Sindhe Symposium Hall, NASC Complex, New Delhi on 8th March 2018. This App is targeted to provide information on newly developed Pig variety-Landlly to the UG and PG students of Veterinary Sciences, Veterinary professionals and Entrepreneurs.
 * [Veterinary Clinical Care App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp).
 * [Biosecurity and Biosafety App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.biosecuriy).
 * [Disease Control App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.diseasecontrolapp).
