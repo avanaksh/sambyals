@@ -1,7 +1,5 @@
 # Avanaksh Singh Sambyal
-
-a
-* *Full Stack .Net Developer** | ASP.NET C# · Web APIs · Web Applications · Android Applications -AI Ecosystem-[AMIETE](amiete_certificate_card.pdf)
+**Full Stack .Net Developer** | ASP.NET C# · Web APIs · Web Applications · Android Applications -AI Ecosystem-[AMIETE](amiete_certificate_card.pdf)
 
 Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
 
@@ -24,8 +22,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 ## Professional Experience
 
 ### [IT Professional – III](ExtensionorderITunit.pdf)
-
-* *ICAR – Indian Agricultural Statistics Research Institute (IASRI), Pusa Campus, New Delhi** | *Nov 2018 – Present (7 yrs 10 mos)*
+**ICAR – Indian Agricultural Statistics Research Institute (IASRI), Pusa Campus, New Delhi** | *Nov 2018 – Present (7 yrs 10 mos)*
 
 * **Enterprise Applications:** Design, develop, and maintain four nationally deployed ASP.NET C# web applications for the Indian Council of Agricultural Research, serving administrative and scientific staff across ICAR institutes across India.
 * **Land Record Management System (LRMS):** Built the system end-to-end — featuring a dynamic form engine, master plan module, works monitoring, and competent-authority reporting — now serving as the system of record for ICAR land and asset holdings.
@@ -38,8 +35,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Production Support:** Own post-deployment enhancement and production support: gather changing requirements from stakeholders, re-engineer forms/reports, and release changes to live systems without service disruption.
 
 ### [Young Professional – II](ypiicertificate.pdf)
-
-* *ICAR – Indian Veterinary Research Institute (IVRI), Izatnagar, Uttar Pradesh** | *Dec 2016 – Nov 2018 (1 yr 11 mos)*
+**ICAR – Indian Veterinary Research Institute (IVRI), Izatnagar, Uttar Pradesh** | *Dec 2016 – Nov 2018 (1 yr 11 mos)*
 
 * **ICAR –Academic Management System (AMS):** Developed the AMS deployed across 50 ICAR institutes, serving Heads, Guides, Faculty, Teachers, Students, and Administrators through role-specific interfaces and permissions.
 * **Workflow Digitization:** Built modules for course management, student records, faculty administration, and discipline-wise academic information retrieval, replacing paper-based administration with a time-bound digital workflow.
@@ -47,73 +43,58 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Performance Recognition:** Retained across three successive contract renewals on the strength of delivery performance.
 
 ## Technical Skills
-
 * **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core
 
 ### [Android Developer](e3softwareservicescertificate.pdf)
-
-* *E3 Software Services Delhi** | *Mar 2014 – Jul 2016 (2 yrs 4 mos)*
+**E3 Software Services Delhi** | *Mar 2014 – Jul 2016 (2 yrs 4 mos)*
 
 * **Android Apps and Web Apps:** Developed the projects in android and load of core php websites was also given to me in extra.
 
 ## Technical Skills
-
 * **Languages and Frameworks:** Android, Eclipse, Core Php, Codeigniter, Laravel, Mysql
 
 * ## Key Projects
 
 ### [ICAR — Land Record Management System (LRMS)]
-
 * **Tech Stack:** ASP.NET C#, SQL Server, LDAP, KRISHI JSON APIs
 * **Description:** National land and asset records platform. Delivered a dynamic forms engine and reporting, LDAP single sign-on, dashboards, alerts, and email notifications. Built master plan and works-monitoring modules along with competent-authority level reporting. Data is automatically fetched and sync’d via KRISHI JSON APIs.
 
 ### [ICAR — Online Annual Performance Appraisal Report System(APARs)]
-
 * **Tech Stack:** ASP.NET C#, SQL Server, XML APIs, PDF Generation
 * **Description:** Digitized the annual performance appraisal process for ICAR staff. Implemented a robust multi-stage approval cycle with distinct Reporting Officer and Reviewing Officer marking stages. Engineered XML API data ingestion with post-fetch editing before persistence, and automated PDF generation of the completed appraisal upon final submission.
 
 ### [ICAR — Academic Management System (AMS)]
-
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Multi-tenant academic platform serving Heads, Guides, Faculty, Teachers, Students, and Administrators across 50 institutes. Manages courses, student records, and faculty data, allowing each user group to securely publish and retrieve discipline-specific information within a unified system.
 
 ### [ICAR — Agricultural Research Management System(ARMS)]
-
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Research administration platform built to track institutional progress. Designed and developed form and reporting modules covering capacity building, awards, teaching records, and students guided.
 
 ### [ICAR — Foreign Visit Management System(FVMS)]
-
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Workflow system digitizing file movement "through proper channel". Delivered complex routing logic and reporting features that replaced manual physical file tracking with a fully auditable digital trail.
-- --
-
+---
 ## Education
 
 ### M.Tech — Computer Science
-
-* *Graduation:** Nov 2011
+**Graduation:** Nov 2011
 * **[Dissertation](mtech_dissertation.pdf):** Wireless Ad Hoc Networks
 
 ### B.Tech — Electronics and Communication Engineering
-
-* *Graduation:** Apr 2004
+**Graduation:** Apr 2004
 * **Major Project:** Solid State Oscilloscope
-- --
-
+---
 # Any Other Information
-
-* (Details of achievements, awards, trainings, etc.)*
-- --
-
+*(Details of achievements, awards, trainings, etc.)*
+---
 ## 1. Software Developer – ICAR Annual Performance Appraisal Report (APAR)
 
 * **Responsibilities**: Form creation, report generation, approval cycle implementation, and monitoring at the reporting and reviewing officer levels.
 * **Workflow and Data Integration**: Data was fetched from Web APIs (developed by the team) and displayed in the scientist login, then saved to the database after modifications in modules such as projects, technology, capacity building, awards, etc. PDF generation after final submission was performed by scientists.
 * **SPARROW (e-Office) Integration**: The same process was later integrated into SPARROW (e-Office) to fetch ARMS (scientist) data through Web APIs developed by the team and the NIC team.
 * **PI**: Dr. Anil Rai, Former ADG, ICT Unit, ICAR.
-- --
-
+---
 ## 2. [Certificate](LRMS_Developer_certificate.pdf) – Web Application for ICAR – Land Record Management System (LRMS)
 
 * **Product**: Developed for ICAR Institutes.
@@ -121,8 +102,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Key Contributions and Features**: Tasks included form creation and report generation, followed by modifications based on changing requirements. Implemented login through Lightweight Directory Access Protocol (LDAP), dashboard, notifications, alerts, email functionality, and data fetching from KRISHI JSON APIs via URLs, which were later saved in the database (as guided by the PI and Reporting Officer).
 * **PI**: Dr. Krishan Kumar Chaturvedi
 * **Reporting Officer**: Dr. Shashi Bhushan Lal
-- --
-
+---
 ## 3. Project Manager – Academic Management System (AMS)
 
 * **Institute / Sponsoring Body**: Indian Veterinary Research Institute (IVRI), Izzatnagar, Bareilly, Uttar Pradesh (an IVRI-sponsored project).
@@ -167,14 +147,12 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
   * [Antimicrobial Resistance App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.amrapp).
   * [Backyard Poultry Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.backyard).
   * NAE App - This Application along with the database provides past and recent technology, based on crop protection and production. Any user like Researcher, Farmer, Student and Education staff can get benefit of viewing these technology details from this developed information system and can be used for their future research work.
-- --
-
+---
 ## 4. Hindi Pakhwada Award
 
 * During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **Second Prize** for the Hindi work/presentation titled:
-   * “[पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।](pakhwada_hindi_prize.pdf)”*
-- --
-
+   *“[पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।](pakhwada_hindi_prize.pdf)”*
+---
 ## 5. Certifications
 
 1. **[BigData in R using Apache Spark](CognitiveClass_RP0105EN_Certificate_Avanaksh.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
@@ -183,13 +161,11 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 4. **Introduction to Quantum Computing**: Quantum Algorithms and Qiskit, Instructors: Prof. Prabha Mandayam (IIT Madras), Anupama Ray (IBM), and Sheshashayee Raghunathan (IBM).
 5. **[Online Training](ISEADigitalCertificate_Avanaksh.pdf)** - Generic Online Training in Cyber Security Conducted by Meity, GOI.
 6. **[Online Course Work](Certificate_42526_100_s69j6AvanakshSinghSambyal.pdf)** - Essential of Java Exam Course Work Conducted by Ministry of Labour and Employment, GOI.
-- --
-
+---
 ## 6. Workshops Attended
 
 * **Business Intelligence on Oracle Analytics Cloud** – Oracle University
-- --
-
+---
 ## 7. Self-Developed Mobile Applications / Web Apps / Agentic AI Apps or Products
 
 ### i. PopCens App
@@ -213,7 +189,6 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Video Link**: [Watch Database Agent Video](https://youtu.be/9lub-jwii_g)
 
 ### iv. Heat Conduction (2D)
-
 * The core objective of this project is to implement and run BEM, FEM, and FDM thermodynamic analyses directly within a plain HTML and CSS web interface.
 * Conceptualized in 2021 while struggling to sleep due to intense daytime and nighttime heat radiating from both the interior and exterior walls of my room. A standard ceiling fan offered no relief, simply circulating the stifling air. While air conditioning is a common fix, it is not a sustainable solution; prolonged exposure to artificial cooling reduces the human body's natural efficiency to cope with extreme heat and high humidity.
 * This realization inspired building a lightweight, accessible web tool to simulate and analyze structural heat transfer, aiming to discover better architectural and thermal insulation alternatives.
@@ -247,18 +222,15 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * Along with projects, also developed other projects, namely:
   * **SIRform** (mobile and web)
   * **Census App** (mobile and web)
-- --
-
+---
 ## 8. Ph.D. Entrance Examination (GGSIPU) - [Admission Form](admission_form_ggsipu.pdf)
 
 * Cleared Ph.D. (CS/IT) Entrance Examination for GGSIPU Dwarka Delhi (2016).
-- --
-
+---
 ## 9. Ph.D. Entrance Examination ([DTU, formerly DCE](dtu_entrance_exam.pdf))
 
 * Cleared Ph.D. (CS) Entrance Examination for DTU Shahbad Dairy Bawana Delhi (**Topped Entrance Examination 2022**).
-- --
-
+---
 ## 10. List of Publications
 
 *   Abstract entitled, "[IVRI Pashu Prajanan App: A Tool for Knowledge Dissemination on Animal Reproduction](abstract_pashu_prajanan_app.pdf)",
@@ -277,8 +249,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
    International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct. 2012,
    organized by Department of Computer Science and Engineering, SRM University, NCR
    campus, Modinagar, Ghaziabad, UP.
-- --
-
+---
 ## 11. Conference/Symposium/Webinar
 
 *  Paper presentation in 101th Indian Science Congress (ISC), 2014, "[Performance Evaluation of
@@ -297,20 +268,12 @@ Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", 3 – 7 Jan. 201
    Indian Institute of Technology, Delhi.
 *  Attended 2nd International Conference on Computer Science, Engineering and Application, 25 –
    26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi.
-- --
-
+---
 ## 12. [GATE Score Card in Computer Science and IT Discipline](gate_scorecard_csit.pdf) 78 percentile
-
-- --
-
+---
 ## 13. [B.Tech. Final Year Project and 2nd Year Training](btech_project_training.pdf)
-
-- --
-
+---
 ## 14. [CDAC PGD Wireless and Mobile Computing](cdac_certificate.pdf)
-
-- --
-
+---
 ## 15. [Others Documents](others_certificate.pdf)
-
-- --
+---
