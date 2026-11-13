@@ -1,8 +1,8 @@
-# Avanaksh Singh Sambyal 
+# Avanaksh Singh Sambyal
 **Full Stack .Net Developer** | ASP.NET C# · Web APIs · Web Applications · Android Applications -AI Ecosystem-[AMIETE](amiete_certificate_card.pdf)
 
 Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
-  
+
 ## Technical Skills
 
 * **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core, Java,Kotlin
@@ -21,7 +21,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 
 ## Professional Experience
 
-### [IT Professional – III](ExtensionorderITunit.pdf) 
+### [IT Professional – III](ExtensionorderITunit.pdf)
 **ICAR – Indian Agricultural Statistics Research Institute (IASRI), Pusa Campus, New Delhi** | *Nov 2018 – Present (7 yrs 10 mos)*
 
 * **Enterprise Applications:** Design, develop, and maintain four nationally deployed ASP.NET C# web applications for the Indian Council of Agricultural Research, serving administrative and scientific staff across ICAR institutes across India.
@@ -78,11 +78,11 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 ## Education
 
 ### M.Tech — Computer Science
-**Graduation:** Nov 2011  
+**Graduation:** Nov 2011
 * **[Dissertation](mtech_dissertation.pdf):** Wireless Ad Hoc Networks
 
 ### B.Tech — Electronics and Communication Engineering
-**Graduation:** Apr 2004  
+**Graduation:** Apr 2004
 * **Major Project:** Solid State Oscilloscope
 ---
 # Any Other Information
@@ -132,7 +132,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
   * [Animal Reproduction App](https://play.google.com/store/apps/details?id=com.mraaapsjd.akmu.pasujanapp) - designed and developed by ICAR-Indian Veterinary Research Institute, Izatnagar, UP and ICAR-Indian Agricultural Statistics Research Institute, New Delhi is targeted to impart knowledge and act as a ready reckoner for the graduating veterinarians, veterinary officers and livestock entrepreneurs about reproductive problems in cattle and buffaloes and measures to treat and control them. The major reproductive diseases /disorders covered in the App are Anestrus, Repeat Breeding, Silent Estrus, Uterine Torsion, Dystocia, Abortion, Uterine Prolapse, Retention of Foetal Membranes, Metritis, Brucellosis, Campylobacteriosis and IBR- IPV.  The App additionally provides basic information on Artificial Insemination in cattle and buffaloes. The App is presently available in Hindi and English languages.
   * [Waste Management Guide App](https://play.google.com/store/apps/details?id=com.mraaapsjd.akmu.pasujanapp) - designed and developed by ICAR-Indian Veterinary Research Institute, Izatnagar, Uttar Pradesh and ICAR-Indian Agricultural Statistics Research Institute, New Delhi. The purpose of app is to impart information and knowledge to graduating veterinarians, field vets, general public, farmers and other stakeholders about management of waste originating from agriculture, livestock and household activities. The app covers information related to composting, vermicomposting, biogas production and their types. The app also provides detailed information about the uses of cow dung. Additionally, the app also provides information on liquid manures, vermi-wash, products of compost, organic farming, technologies for crop residue management, biodynamic composting, enrichment of manures, initiatives taken by government for waste management, etc. The app is useful for all the households as it contains detailed information on utilization of household waste.  The app also covers the strategies for management of inorganic waste. Detailed procedures have been discussed along with latest amendments for effective waste management.
   * [Pig Farming App](https://play.google.com/store/apps/details?id=com.icar.ivri.pig_app) - Pig farming has gained significant importance now a days and emerged as a profitable enterprise option for livestock entrepreneurs. The Pig Farming (Shookar Palan) App designed and developed by ICAR-Indian Veterinary Research Institute, Izatnagar in collaboration with ICAR-NRC on Pig and ICAR-Indian Agricultural Statistics Research Institute, New Delhi is targeted to impart scientific knowledge and skills to the graduating veterinarians, field veterinary officers, developmental organizations and entrepreneurs for promoting pig farming. This is an educational app providing information on breeds, housing, feeding, breeding, healthcare and general management of pigs. The app additionally supports for economic analysis and evaluation of various pig farming projects.
-  * [Pig Ration App](https://play.google.com/store/apps/details?id=icar.iasri.ivri.pigration) - designed and developed by ICAR-Indian Veterinary Research Institute, Izatnagar and ICAR-Indian Agricultural Statistics Research Institute New Delhi is targeted to impart scientific knowledge and skills to the Graduating Veterinarians, Field Veterinary Officers, Developmental and Service Providing Organizations, NGOs and entrepreneurs for promoting balanced ration formulation for piggery enterprise. This App can help the end users to formulate balanced ration for the various categories of pigs on the basis of their body weight, age, pregnancy status, lactation stage and also requirement of breeding boar. 
+  * [Pig Ration App](https://play.google.com/store/apps/details?id=icar.iasri.ivri.pigration) - designed and developed by ICAR-Indian Veterinary Research Institute, Izatnagar and ICAR-Indian Agricultural Statistics Research Institute New Delhi is targeted to impart scientific knowledge and skills to the Graduating Veterinarians, Field Veterinary Officers, Developmental and Service Providing Organizations, NGOs and entrepreneurs for promoting balanced ration formulation for piggery enterprise. This App can help the end users to formulate balanced ration for the various categories of pigs on the basis of their body weight, age, pregnancy status, lactation stage and also requirement of breeding boar.
   * [Landly Pig App](https://play.google.com/store/apps/details?id=com.ivri.iasri.landlypig) - has been designed and developed by ICAR-Indian Veterinary Research Institute, Izatnagar in collaboration with ICAR-Indian Agricultural Statistics Research Institute, New Delhi. The basic objective is to impart knowledge about faster growing pig variety namely Landlly developed by ICAR-Indian Veterinary Research Institute, Izatnagar and released by Shri Radha Mohan Singh Ji, Hon’ble Union Minister of Agriculture and Farmers Welfare, GOI on the occasion of Annual Conference of Vice Chancellors of Agricultural Universities and Directors of ICAR institutes at A P Sindhe Symposium Hall, NASC Complex, New Delhi on 8th March 2018. This App is targeted to provide information on newly developed Pig variety-Landlly to the UG and PG students of Veterinary Sciences, Veterinary professionals and Entrepreneurs.
   * [Veterinary Clinical Care App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp).
   * [Biosecurity and Biosafety App](https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.biosecuriy).
@@ -160,7 +160,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 3. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur.
 4. **Introduction to Quantum Computing**: Quantum Algorithms and Qiskit, Instructors: Prof. Prabha Mandayam (IIT Madras), Anupama Ray (IBM), and Sheshashayee Raghunathan (IBM).
 5. **[Online Training](ISEADigitalCertificate_Avanaksh.pdf)** - Generic Online Training in Cyber Security Conducted by Meity, GOI.
-6. **[Online Course Work](Certificate_42526_100_s69j6AvanakshSinghSambyal.pdf)** - Essential of Java Exam Course Work Conducted by Ministry of Labour and Employment, GOI. 
+6. **[Online Course Work](Certificate_42526_100_s69j6AvanakshSinghSambyal.pdf)** - Essential of Java Exam Course Work Conducted by Ministry of Labour and Employment, GOI.
 ---
 ## 6. Workshops Attended
 
@@ -231,43 +231,43 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 
 * Cleared Ph.D. (CS) Entrance Examination for DTU Shahbad Dairy Bawana Delhi (**Topped Entrance Examination 2022**).
 ---
-## 10. List of Publications 
+## 10. List of Publications
 
-*   Abstract entitled, "[IVRI Pashu Prajanan App: A Tool for Knowledge Dissemination on Animal Reproduction](abstract_pashu_prajanan_app.pdf)", 
-    in 72nd Annual Conference of Indian Society of Agricultural Statistics on Statistics, Informatics and Engineering Interventions held from   Dec. 13-15 2018, ICAR-Central Institute of Agricultural Engineering, Bhopal, MP. 
-*   Abstract entitled, "[Populating The Census Data Using Android App – A Review](abstract_avanaksh_population_census_app.pdf)", 
-    communicated in COMNET 2014, International Conference held from 14-15 Mar. 2014, PSG Institute of Science and Technology, Coimbatore. 
-*   Abstract entitled, "[Performance Evaluation of Different Garbage Collection Algorithm Based 
-    On Programming Languages Drawback/ Trade-off](abstract_univofjammu_jk.pdf)", in 101th Indian Science Congress (ISC) 
-    2014, proceedings, ICT(including Computer Sciences) stream, 3-7 Feb. 2014, University of 
-    Jammu, Jammu. 
-*   Abstract entitled, "[Various Image Processing Algorithms](abstract_cu_kolkata.pdf)", in 100th Indian Science Congress 
-   (ISC) 2013, proceedings, ICT (including Computer Sciences) stream, 3-7 Jan. 2013, Kolkata. 
-*  Abstract entitled, "[Impact of Routing Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", in 99th Indian Science 
-   Congress (ISC) 2012, proceedings, Engineering stream, 3-7 Jan. 2012, Bhubaneswar. 
-*  Abstract entitled, "[Java Applet And Its Variety Of Applications in Programming](abstract_java_applets.pdf)", accepted in 
-   International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct. 2012, 
-   organized by Department of Computer Science and Engineering, SRM University, NCR 
+*   Abstract entitled, "[IVRI Pashu Prajanan App: A Tool for Knowledge Dissemination on Animal Reproduction](abstract_pashu_prajanan_app.pdf)",
+    in 72nd Annual Conference of Indian Society of Agricultural Statistics on Statistics, Informatics and Engineering Interventions held from   Dec. 13-15 2018, ICAR-Central Institute of Agricultural Engineering, Bhopal, MP.
+*   Abstract entitled, "[Populating The Census Data Using Android App – A Review](abstract_avanaksh_population_census_app.pdf)",
+    communicated in COMNET 2014, International Conference held from 14-15 Mar. 2014, PSG Institute of Science and Technology, Coimbatore.
+*   Abstract entitled, "[Performance Evaluation of Different Garbage Collection Algorithm Based
+    On Programming Languages Drawback/ Trade-off](abstract_univofjammu_jk.pdf)", in 101th Indian Science Congress (ISC)
+    2014, proceedings, ICT(including Computer Sciences) stream, 3-7 Feb. 2014, University of
+    Jammu, Jammu.
+*   Abstract entitled, "[Various Image Processing Algorithms](abstract_cu_kolkata.pdf)", in 100th Indian Science Congress
+   (ISC) 2013, proceedings, ICT (including Computer Sciences) stream, 3-7 Jan. 2013, Kolkata.
+*  Abstract entitled, "[Impact of Routing Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", in 99th Indian Science
+   Congress (ISC) 2012, proceedings, Engineering stream, 3-7 Jan. 2012, Bhubaneswar.
+*  Abstract entitled, "[Java Applet And Its Variety Of Applications in Programming](abstract_java_applets.pdf)", accepted in
+   International Conference on Recent Trends in Computing (ICRTC) - 2012, 4 – 5th Oct. 2012,
+   organized by Department of Computer Science and Engineering, SRM University, NCR
    campus, Modinagar, Ghaziabad, UP.
 ---
-## 11. Conference/Symposium/Webinar 
+## 11. Conference/Symposium/Webinar
 
 *  Paper presentation in 101th Indian Science Congress (ISC), 2014, "[Performance Evaluation of
-Different Garbage Collection Algorithm Based On Programming Languages Drawback /Trade-off](abstract_univofjammu_jk.pdf)", 3 – 7 Feb. 2014, University of Jammu, Jammu. 
+Different Garbage Collection Algorithm Based On Programming Languages Drawback /Trade-off](abstract_univofjammu_jk.pdf)", 3 – 7 Feb. 2014, University of Jammu, Jammu.
 *  [Paper presentation](paper_presentation_isca_kolkata.pdf) in 100th Indian Science Congress (ISC), 2013, "[Various Image Processing
-Algorithms](abstract_cu_kolkata.pdf)", 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
+Algorithms](abstract_cu_kolkata.pdf)", 3 – 7 Jan. 2013, Calcutta University, Kolkata.
 *  [Paper presentation](paper_presentation_kiit_bhubhneshwar.pdf) in 99th Indian Science Congress (ISC), 2012, "[Impact of Routing
-Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
+Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", 3 – 7 Jan. 2012, KIIT University, Bhubaneswar.
 *  Attended the symposium, IFS, from 1 – 4 Mar. 2012, on the topic namely, "Sensor
-    Technologies and Systems", in Indian Institute of Technology (IIT), Delhi. 
-*  Attended the national conference on "Business Intelligence and Date Warehousing", 
-   Saturday, 17 Mar 2012, organized by University School of Management Studies, GGSIPU, 
-   Delhi, jointly with IETE, Delhi; CSI, Delhi and Technical partners; IEEE Computer Society, 
-   Delhi. 
-*  Attended the Niksun World wide Security and Mobility Conference, 12 Apr. 2012, organized by 
-   Indian Institute of Technology, Delhi. 
+    Technologies and Systems", in Indian Institute of Technology (IIT), Delhi.
+*  Attended the national conference on "Business Intelligence and Date Warehousing",
+   Saturday, 17 Mar 2012, organized by University School of Management Studies, GGSIPU,
+   Delhi, jointly with IETE, Delhi; CSI, Delhi and Technical partners; IEEE Computer Society,
+   Delhi.
+*  Attended the Niksun World wide Security and Mobility Conference, 12 Apr. 2012, organized by
+   Indian Institute of Technology, Delhi.
 *  Attended 2nd International Conference on Computer Science, Engineering and Application, 25 –
-   26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi. 
+   26 May 2012, organized by AIRCC, Venue: The Connaught Hotel, Delhi.
 ---
 ## 12. [GATE Score Card in Computer Science and IT Discipline](gate_scorecard_csit.pdf) 78 percentile
 ---
