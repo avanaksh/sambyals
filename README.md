@@ -150,7 +150,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 ---
 ## 4. Hindi Pakhwada Award
 * During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **Second Prize** for the Hindi work/presentation titled:
-  > *“[पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।](pakhwada_hindi_prize.pdf)”*
+   *“[पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।](pakhwada_hindi_prize.pdf)”*
 ---
 ## 5. Certifications
 1. **[BigData in R using Apache Spark](CognitiveClass_RP0105EN_Certificate_Avanaksh.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
