@@ -149,10 +149,12 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
   * NAE App - This Application along with the database provides past and recent technology, based on crop protection and production. Any user like Researcher, Farmer, Student and Education staff can get benefit of viewing these technology details from this developed information system and can be used for their future research work.
 ---
 ## 4. Hindi Pakhwada Award
+
 * During the Hindi Pakhwada section held at ICAR-IASRI, the team consisting of Sudeep Marwaha, Mukesh Kumar, Soumen Pal, Rupasi Tiwari, Triveni Dutt, Avanaksh Singh Sambyal, and Harish Kumar received the **Second Prize** for the Hindi work/presentation titled:
    *“[पशुधन मालिकों के लिए आई.वी.आर.आई. मोबाइल पशु चिकित्सा संबंधित ऐप।](pakhwada_hindi_prize.pdf)”*
 ---
 ## 5. Certifications
+
 1. **[BigData in R using Apache Spark](CognitiveClass_RP0105EN_Certificate_Avanaksh.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
 2. **[Machine Learning with Python](IBMML0101ENCertificate_CognitiveClass_AVANAKSH.pdf)** – Big Data University, IBM (CognitiveClass.ai, Online Mode).
 3. **Machine Learning for Soil and Crop Management** – Prof. Somsubhra Chakraborty, Agricultural and Food Engineering Department, IIT Kharagpur.
@@ -167,6 +169,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 ## 7. Self-Developed Mobile Applications / Web Apps / Agentic AI Apps or Products
 
 ### i. PopCens App
+
 * A mobile application developed to store census-related data of the population of India.
 * The app supports government policy formulation for different communities across states and UTs.
 * **Two versions developed**:
@@ -174,12 +177,14 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
   2. Offline and online storage of data along with PDF generation through the mobile application.
 
 ### ii. Science Agent using Google’s Agent Development Kit
+
 * An autonomous translation agent designed to translate highly technical and scientific text—spanning physics, chemistry, mathematics, biology, and quantum and allied branches—into local regional languages with zero hallucinations.
 * Powered by the Gemini API and deployed across Google Cloud infrastructure, this foundation-model-driven architecture ensures rigorous factual grounding and contextual accuracy.
 * The translation ecosystem scaled rapidly to ensure global accessibility: initially launched with 10 core languages, expanded to 49 languages, and now comprehensively supports 249 worldwide languages along with more than 140 dialectal aliases.
 * **Video Link**: [Watch Science Agent Video](https://youtube.com/watch?v=apom2rO_Xy8)
 
 ### iii. Database Agent
+
 * An agent which can fetch and store from multiple database(s) and show results in textbox/area using Gemini API/Cloud in plain HTML with CSS design.
 * **Video Link**: [Watch Database Agent Video](https://youtu.be/9lub-jwii_g)
 
@@ -190,10 +195,12 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Video Link**: [Watch Heat Conduction (2D) Video](https://youtu.be/XqnMlep9Nq0)
 
 ### v. School Management System (Migrant Workers)
+
 * Developed the school management system for migrant workers in ASP.Net Technology, Tailwind, and MSSQL Database.
 * **Video Link**: [Watch SMS for Migrant Workers Video](https://youtu.be/cxptr4a71II)
 
 ### vi. Bio Portal
+
 * Surrounded by bioinformatics education at the Bioinformatics Division of IASRI, Delhi, observed the daily friction researchers and students experience when manually processing NCBI/PubMed sequence data.
 * Engineered a deterministic sequence analysis engine in Python querying NCBI's Entrez E-Utilities API using user accession IDs and email credentials.
 * Evolved this pipeline into an autonomous agent architecture using the Agentic framework, orchestrating biological tool execution with foundation models deployed on fully serverless infrastructure.
@@ -201,6 +208,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Video Link**: [Watch Bio Portal Video](https://youtu.be/jLDmXZMZ-OI)
 
 ### vii. Attendance Portal
+
 * Mobile app built using the RevenueCat SDK with in-app purchases, hosted live on the Amazon Store.
 * Authority Admins can add organizations along with their respective members.
 * Once logged in, a member can mark biometric morning attendance, cast votes on specific topics/issues, and mark biometric evening attendance.
@@ -210,6 +218,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Video Link**: [Watch Attendance Portal Video](https://youtube.com/shorts/IgAApPS7evk?si=2JzaO6D3VRLf2H)
 
 ### Additional Projects
+
 * Along with projects, also developed other projects, namely:
   * **SIRform** (mobile and web)
   * **Census App** (mobile and web)
@@ -243,13 +252,12 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 ---
 ## 11. Conference/Symposium/Webinar 
 
-*  Paper presentation in 101th Indian Science Congress (ISC), 2014, "[Performance Evaluation of 
-    Different Garbage Collection Algorithm Based On Programming Languages Drawback /   
-    Trade-off](abstract_univofjammu_jk.pdf)", 3 – 7 Feb. 2014, University of Jammu, Jammu. 
+*  Paper presentation in 101th Indian Science Congress (ISC), 2014, "[Performance Evaluation of
+Different Garbage Collection Algorithm Based On Programming Languages Drawback /Trade-off](abstract_univofjammu_jk.pdf)", 3 – 7 Feb. 2014, University of Jammu, Jammu. 
 *  [Paper presentation](paper_presentation_isca_kolkata.pdf) in 100th Indian Science Congress (ISC), 2013, "[Various Image Processing
-    Algorithms](abstract_cu_kolkata.pdf)", 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
-*  [Paper presentation](paper_presentation_kiit_bhubhneshwar.pdf) in 99th Indian Science Congress (ISC), 2012, "[Impact of Routing  
-    Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
+Algorithms](abstract_cu_kolkata.pdf)", 3 – 7 Jan. 2013, Calcutta University, Kolkata. 
+*  [Paper presentation](paper_presentation_kiit_bhubhneshwar.pdf) in 99th Indian Science Congress (ISC), 2012, "[Impact of Routing
+Misbehavior on QoS in MANets](abstract_kiit_bhubhneshwar.pdf)", 3 – 7 Jan. 2012, KIIT University, Bhubaneswar. 
 *  Attended the symposium, IFS, from 1 – 4 Mar. 2012, on the topic namely, "Sensor
     Technologies and Systems", in Indian Institute of Technology (IIT), Delhi. 
 *  Attended the national conference on "Business Intelligence and Date Warehousing", 
