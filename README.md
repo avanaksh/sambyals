@@ -74,6 +74,10 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 ### [ICAR — Foreign Visit Management System(FVMS)]
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Workflow system digitizing file movement "through proper channel". Delivered complex routing logic and reporting features that replaced manual physical file tracking with a fully auditable digital trail.
+
+### [ICAR — ERP(Web Module)]
+* **Tech Stack:** ASP.NET C#, SQL Server
+* **Description:** When ERP (Oracle) failed to serve for the ICAR Institute(s), then this web module was created to serve the ICAR Institution(s) to entertain new joining whether scientist, technical, administration, support skilled staff, etc. Before joining in ICAR institutions they get enrolled in ICAR-National Academy of Agricultural Research and Management, Hyderabad. This was lived through ARMS Portal for support admin in respective ICAR institution(s).
 ---
 ## Education
 
