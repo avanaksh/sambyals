@@ -77,7 +77,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 
 ### [ICAR — ERP(Web Module)]
 * **Tech Stack:** ASP.NET C#, SQL Server
-* **Description:** When ERP (Oracle) failed to serve for the ICAR Institute(s), then this web module was created to serve the ICAR Institution(s) to entertain new joining whether scientist, technical, administration, support skilled staff, etc. Before joining in ICAR institutions they get enrolled in ICAR-National Academy of Agricultural Research and Management, Hyderabad for cadre level training. This was lived through ARMS Portal for support admin in respective ICAR institution(s).
+* **Description:** When ERP (Oracle) failed to serve for the ICAR Institute(s), then this web module was created to serve the ICAR Institution(s) to entertain new joining whether scientist, technical, administration, support skilled staff, etc. Before joining in ICAR institutions they get enrolled in ICAR-National Academy of Agricultural Research and Management, Hyderabad for cadre level training. This was lived through ARMS Portal for support/staff admin in respective ICAR institution(s).
 ---
 ## Education
 
