@@ -6,7 +6,7 @@ Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
 ## Technical Skills
 
 * **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core, Java,Kotlin
-* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView, Entrez e-utiities, Entrez Direct, Biopython, Matlab(Bioinformatics), AWS (Lambda, S3 bucket,EC2 Cloud, Code Build, user role creation and access control), EOffice implementation team at ICAR-Indian Agricultural Statistics Research Institute.
+* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView, Entrez e-utiities, Entrez Direct, Biopython, Matlab(Bioinformatics), AWS (Lambda, S3 bucket, EC2 Cloud, CodeBuild, user role creation and access control), EOffice implementation team at ICAR-Indian Agricultural Statistics Research Institute, New Delhi.
 * **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind, Bulma
 * **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization, Sqlite
 * **Security and Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
@@ -75,7 +75,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** Workflow system digitizing file movement "through proper channel". Delivered complex routing logic and reporting features that replaced manual physical file tracking with a fully auditable digital trail.
 
-### [ICAR — ERP(Web Module)]
+### [ICAR — Enterprise Resource Planning(Web Module)]
 * **Tech Stack:** ASP.NET C#, SQL Server
 * **Description:** When ERP (Oracle) failed to serve for the ICAR Institute(s), then this web module was created to serve the ICAR Institution(s) to entertain new joining whether scientist, technical, administration, support skilled staff, etc. Before joining in ICAR institutions they get enrolled in ICAR-National Academy of Agricultural Research and Management, Hyderabad for cadre level training. This was lived through ARMS Portal for support/staff admin in respective ICAR institution(s).
 ---
@@ -117,7 +117,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Leadership and Team**:
   * **AMS PI**: Dr. Sudeep Marwaha
   * **Co-PIs**: Dr. Alka Arora, Dr. Soumen Pal, Dr. Mukesh Kumar
-  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (Joint Director, IVRI), Dr. Triveni Dutt, Presently [Vice Chancellor](vcsir_merged.pdf), Sardar Vallabhbhai Patel University of Agriculture and Technology, Meerut (Former Acting Director, IVRI, Former JD(Edu.,Extn.,Research), IVRI;), Dr. Yashpal Singh (Scientist, IVRI), Dr. J. K. Prasad (Former Nodal Officer)
+  * **Mobile Apps PIs**: Dr. Rupasi Tiwari (Joint Director(Education), IVRI), Dr. Triveni Dutt, Presently [Vice Chancellor](vcsir_merged.pdf), Sardar Vallabhbhai Patel University of Agriculture and Technology, Meerut (Former Acting Director and Vice Chancellor, IVRI, Former JD(Edu.,Extn.,Research), IVRI;), Dr. Yashpal Singh (Scientist, IVRI), Dr. J. K. Prasad (Former Nodal Officer)
   * **Team**: Dr. Sudeep Marwaha (PI), Manish Chauhan, Dinesh Kumar Rajpoot, Shyam Kumar Chauhan, and Avanaksh Singh Sambyal
 * **Web APIs Developed**:
   * ICAR-IIMS Portal App
