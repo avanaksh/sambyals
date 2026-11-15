@@ -6,7 +6,7 @@ Delhi NCR, India • +91 70425 76983 • avasisam@gmail.com
 ## Technical Skills
 
 * **Languages and Frameworks:** C#, ASP.NET, .NET Framework/.NET Core, ADO.NET, VB.NET, ASP(classic), LINQ, Entity Framework/Entity Framework Core, Java,Kotlin
-* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView, Entrez e-utiities, Entrez Direct, Biopython, Matlab(Bioinformatics), AWS (Lambda, S3 bucket,EC2 Cloud, Code Build, user role creation and access control).
+* **Web Services and APIs:** ASP.NET Web API, RESTful services, JSON API integration, XML API integration, Third-party API consumption, Python(Flask/FastAPI), Java/JSP. Springboot, Microservices, Pymol, JalView, Entrez e-utiities, Entrez Direct, Biopython, Matlab(Bioinformatics), AWS (Lambda, S3 bucket,EC2 Cloud, Code Build, user role creation and access control), EOffice implementation team at ICAR-Indian Agricultural Statistics Research Institute.
 * **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, AJAX, Tailwind, Bulma
 * **Database:** Microsoft SQL Server, T-SQL, Stored procedures, Views, Query optimization, Sqlite
 * **Security and Access:** LDAP / Active Directory authentication, Single sign-on (SSO), Role-based access control (RBAC)
