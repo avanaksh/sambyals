@@ -113,7 +113,7 @@ Full Stack .NET developer with **12+ years of experience** designing, building, 
 * **Mobile Applications Management**: Responsible for development of mobile applications (bilingual and multilingual), app management, analytics monitoring in Firebase Developer Console, issue resolution in Google Play Console, user feedback handling, and uploading new apps or updates (as guided by PI, CCPI, and Co-PIs).
 * **AMS-IVRI Implementation**: Handled implementation and commissioning of the Academic Management System in the institute, report creation, and modification of functionalities at each user level. Various modules and functionalities were added, developed, integrated, tested, and commissioned into production within stipulated timelines.
 * **Product Scope and Deployment**: AMS is an ICAR-IASRI product approved by DG, ICAR, and is running across 55 universities/institutes in the ICAR domain.
-* **Technical Support and Training**: Provided technical support (offline and online) during training programs at multiple institutes/universities, including NDRI Karnal, CAU Imphal, BAU Sabour, BAU Ranchi, UHS Dharwad, UHS Bagalkot, UAS Bengaluru, GB Pant Nagar, CSHPK Palampur, AMS Raichur, etc.
+* **Technical Support and Training**: Provided technical support (offline and online) during training programs at multiple institutes/universities, including IVRI Bareilly,NDRI Karnal, CAU Imphal, BAU Sabour, BAU Ranchi, UHS Dharwad, UHS Bagalkot[uhs_ams_certificate.pdf], UAS Bengaluru, GB Pant Nagar[appreciation_letter_gb_pant_uk.pdf], CSHPK Palampur, AMS Raichur, etc.
 * **Leadership and Team**:
   * **AMS PI**: Dr. Sudeep Marwaha
   * **Co-PIs**: Dr. Alka Arora, Dr. Soumen Pal, Dr. Mukesh Kumar
